@@ -2,9 +2,25 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Question App</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
-  <body></body>
+  <body>
+    <div class="file-buttons">
+      <button class="json-button" data-file="./public/gpt-new.json">gpt new</button>
+      <button class="json-button" data-file="./public/watched.json">watched</button>
+      <button class="json-button" data-file="./public/random.json">random</button>
+    </div>
+    <div class="question-wrapper" id="question-wrapper">
+      <div class="question-container" id="question-container">
+        <p class="question" id="question"></p>
+        <p class="episode-id" id="episode-id"></p>
+      </div>
+    </div>
+    <div class="button-wrapper">
+      <button id="next-button">kolejne pytanie</button>
+    </div>
+    <script src="app.js"></script>
+  </body>
 </html>
