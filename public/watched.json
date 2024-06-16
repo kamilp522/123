@@ -1,6 +1,94 @@
 {
   "elements": [
-    { "id": 281, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "e16s143" },
+    { "id": 300, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 299, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 298, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 297, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 296, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    {
+      "id": 295,
+      "question": "Jak nazywa się sztuka czytania nut głosem?",
+      "answer": "Solfeż",
+      "episode": ""
+    },
+    {
+      "id": 294,
+      "question": "Która roślina jest symbolem Szkocji?",
+      "answer": "oset",
+      "episode": ""
+    },
+    {
+      "id": 293,
+      "question": "Jak nazywa się autor zdjęć do filmów 'Ziemia Obiecana', 'Wesele'?",
+      "answer": "Witold Sobociński",
+      "episode": ""
+    },
+    {
+      "id": 291,
+      "question": "Ile posągów świętych znajduję się na kolumnadzie berliniego na placu świętego Piotra w Watykanie?",
+      "answer": "140",
+      "episode": ""
+    },
+    {
+      "id": 290,
+      "question": "Gdzie znajduje sie dworek, dar narodu Polskiego dla Henryka Sienkiewicza?",
+      "answer": "W Oblęgorku",
+      "episode": ""
+    },
+    {
+      "id": 289,
+      "question": "Jak nazywał się ostatni władca Troi, ojciec Parysa?",
+      "answer": "Priam",
+      "episode": ""
+    },
+    {
+      "id": 288,
+      "question": "Ile kobiet do tej pory zdobyło oscara za reżyserię?",
+      "answer": "trzy (Kathryn Bigelow, Chloe Zhao, Jane Champion)",
+      "episode": ""
+    },
+    {
+      "id": 287,
+      "question": "Kto poniósł klęskę w czasie bitwy o Midway w czasie II wojny światowej?",
+      "answer": "Japonia",
+      "episode": ""
+    },
+    {
+      "id": 286,
+      "question": "Stołeczny plac konstytucji został nazwanny dla konstytucji powojennej czy przedwojennej?",
+      "answer": "Powojennej (z 1952 r.)",
+      "episode": ""
+    },
+    {
+      "id": 285,
+      "question": "Ilu ramienna jest gwizada polskiej policji?",
+      "answer": "Ośmioramienna",
+      "episode": ""
+    },
+    {
+      "id": 284,
+      "question": "Kto dowodził wojskami Polskimi przeciwko Austriakoom w 1809r.",
+      "answer": "książę Józef Poniatowski",
+      "episode": ""
+    },
+    {
+      "id": 283,
+      "question": "Jak nazywa się ostatni, czwarty tom 'Nocy i Dni' Marii Dąbrowskiej?",
+      "answer": "Wiatr w Oczy",
+      "episode": ""
+    },
+    {
+      "id": 282,
+      "question": "W jakim kraju przywódcą chłopskiego powstania był Emiliano Zapata?",
+      "answer": "W Meksyku",
+      "episode": ""
+    },
+    {
+      "id": 281,
+      "question": "Kto pierwszy przekracza jezdnie na okładce the beatles 'abbey road'?",
+      "answer": "John Lennon",
+      "episode": ""
+    },
     {
       "id": 280,
       "question": "Naturalny uran jest mieszaniną trzech izotopów: 234, 235 i 238. Który z nich jest potrzebny do stworzenia bomby atomowej?",
