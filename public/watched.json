@@ -1,10 +1,168 @@
 {
   "elements": [
-    { "id": 300, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 299, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 298, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 297, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 296, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 333, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 332, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 331, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 330, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 329, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 328, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 327, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 326, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 325, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 324, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 323, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 322, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 321, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    {
+      "id": 320,
+      "question": "Skąd pochodził Louis Chevrolet, Konstruktor samochodowy",
+      "answer": "ze Szwajcarii",
+      "episode": "e10s106"
+    },
+    {
+      "id": 319,
+      "question": "W jakiej miejscowości w dzisiejszych Czechach, miała miejsce bitwa 3 cesarzy?",
+      "answer": "Austerlitz (dzisiaj Sławków)",
+      "episode": "e10s106"
+    },
+    {
+      "id": 318,
+      "question": "W jakim biegu Janusz Kusociński zdobył złoty medal IO w 1932 roku?",
+      "answer": "10 km",
+      "episode": "e10s106"
+    },
+    {
+      "id": 317,
+      "question": "Jak nazywał się XV wieczny malarz niderlandzki, autor tryptyku 'Sąd Ostateczny' oraz tryptyku św. Janów?",
+      "answer": "Hans Memling",
+      "episode": "e10s106"
+    },
+    {
+      "id": 316,
+      "question": "Gdzie narodził się na początku lat 30 XX wieku, nurt socrealizm?",
+      "answer": "W ZSRR",
+      "episode": "e10s106"
+    },
+    {
+      "id": 315,
+      "question": "Galiarda to maska, taniec czy ozdobny strój?",
+      "answer": "taniec",
+      "episode": "e10s106"
+    },
+    {
+      "id": 314,
+      "question": "W jakim kraju znajdują się alpy południowe, których najwyższym szczytem jest góra Cooka?",
+      "answer": "W Nowej Zelandii",
+      "episode": "e10s106"
+    },
+    {
+      "id": 313,
+      "question": "Jak nazywał się instruktor w Warszwskiej szkole podchorązych piechoty, dowódca tajnego związku patriotycznego, który doprowadził do powstania listopadowego?",
+      "answer": "Piotr Wysocki",
+      "episode": "e10s106"
+    },
+    {
+      "id": 312,
+      "question": "Władca jakiego kraju abdykował aby móc poślubić Wallis Simpson?",
+      "answer": "Edward VIII",
+      "episode": "e10s106"
+    },
+    {
+      "id": 311,
+      "question": "W którym wieku urodził się Mahomet, prorok Islamu?",
+      "answer": "w VI wieku",
+      "episode": "e10s106"
+    },
+    {
+      "id": 310,
+      "question": "Który polski lekarz, pisarz i wychowawca jest autorem ksiązki dla dzieci 'Kajtuś Czarodziej'?",
+      "answer": "Janusz Korczak (Henryk Goldszmidt)",
+      "episode": "e10s106"
+    },
+    {
+      "id": 309,
+      "question": "Kosoń czarny to naturalny wróg strzygoni chojnówki. Czy oba te gatunki to owady czy płazy?",
+      "answer": "owady",
+      "episode": "e10s106"
+    },
+    {
+      "id": 308,
+      "question": "Czy księstwo warszawskie utworzone w 1807 roku przez Napoleona, miało dostęp do Morza Bałtyckiego?",
+      "answer": "nie miało",
+      "episode": "e10s106"
+    },
+    {
+      "id": 307,
+      "question": "Która wyspa jest 'jak wulkan gorąca' w polskiej pioscence?",
+      "answer": "Kuba",
+      "episode": "e10s106"
+    },
+    {
+      "id": 306,
+      "question": "jak nazywa się aktorka która dostała oscara za film 'Trzy billboardy za Ebbing Missouri?",
+      "answer": "Frances McDormand",
+      "episode": "e10s106"
+    },
+    {
+      "id": 305,
+      "question": "Częścią jakiego państwa do lat 70 XX w. był częścią Indii czy cześcią Pakistanu?",
+      "answer": "Pakistanu",
+      "episode": "e10s106"
+    },
+    {
+      "id": 304,
+      "question": "W pomniku Kopernika w Warszawie ma on w rękach dwa przedmioty, jakie? (proszę wymienić conajmniej jeden)",
+      "answer": "cyrkiel i sfera armilarna",
+      "episode": "e10s106"
+    },
+    {
+      "id": 303,
+      "question": "Kto pomagtał Jezusowi nieść krzyż na golgotę?",
+      "answer": "Szymon z Cyreny",
+      "episode": "e10s106"
+    },
+    {
+      "id": 302,
+      "question": "Kto jest autorem opowiadań kryminalnych wydanych w zbiorze 'kłopoty to moja specjalność'?",
+      "answer": "Raymond Chandler",
+      "episode": "e10s106"
+    },
+    {
+      "id": 301,
+      "question": "Z którego miasta musiał uciekać Eneasz?",
+      "answer": "z Troi",
+      "episode": "e10s106"
+    },
+    {
+      "id": 300,
+      "question": "Kto uwolnił Prometeusza od swej kary na skale?",
+      "answer": "Herakles",
+      "episode": "e10s106"
+    },
+    {
+      "id": 299,
+      "question": "Czy za Elżbiety I, Anglia była katolicka czy protestancka?",
+      "answer": "protestancka",
+      "episode": "e10s106"
+    },
+    {
+      "id": 298,
+      "question": "Jak nazywało się porozumienie zawarte między Francją, Wielką Brytanią i Rosją zawarte ostatecnie w 1907 roku?",
+      "answer": "Ententa",
+      "episode": "e10s106"
+    },
+    {
+      "id": 297,
+      "question": "Gdzie w Polsce jest organizowany co roku festiwal Jazzu?",
+      "answer": "we Wrocaławiu",
+      "episode": "e10s106"
+    },
+    {
+      "id": 296,
+      "question": "kto napisał 'małego księcia' i 'nocnego lotu'",
+      "answer": "Antoine de Saint-Exupery",
+      "episode": "e10s106"
+    },
     {
       "id": 295,
       "question": "Jak nazywa się sztuka czytania nut głosem?",
