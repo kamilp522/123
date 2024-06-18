@@ -1,18 +1,276 @@
 {
   "elements": [
-    { "id": 333, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 332, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 331, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 330, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 329, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 328, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 327, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 326, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 325, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 324, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 323, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 322, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 321, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 371, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 370, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 369, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 368, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 367, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 366, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    {
+      "id": 365,
+      "question": "Stolicą którego regionu Hiszpanii jest Sewilla?",
+      "answer": "Andaluzji",
+      "episode": "e2s77"
+    },
+    {
+      "id": 364,
+      "question": "Na jakiej gitarze grał Sting w zespole The Police?",
+      "answer": "xxxxxxxxxxxx",
+      "episode": "e2s77"
+    },
+    {
+      "id": 364,
+      "question": "Na jakiej gitarze grał Sting w zespole The Police?",
+      "answer": "Na gitarze basowej",
+      "episode": "e2s77"
+    },
+    {
+      "id": 363,
+      "question": "Nazwa którą dzieli dzielnica w Warszawie i część dzielnicy Krakowa Zwierzyniec gdzie znajduję się klasztor kamedułów?",
+      "answer": "Bielany",
+      "episode": "e2s77"
+    },
+    {
+      "id": 362,
+      "question": "Jak nazywa się autorka powieści 'Wojna Polsko-Ruska pod Falgą Biało-Czerwoną'?",
+      "answer": "Dorota Masłowska",
+      "episode": "e2s77"
+    },
+    {
+      "id": 361,
+      "question": "Kiedy dzieci się nudzą wg. piosenki kabaretu starszych panów?",
+      "answer": "w czasie deszczu",
+      "episode": "e2s77"
+    },
+    {
+      "id": 360,
+      "question": "Jak nazywał się prom kosmiczny który wybuchł w 1986 roku?",
+      "answer": "Challenger",
+      "episode": "e2s77"
+    },
+    {
+      "id": 359,
+      "question": "W którym kraju powstała armia gen. Hallera? (zwana również błękitną armią, od koloru mundurów)",
+      "answer": "we Francji",
+      "episode": "e2s77"
+    },
+    {
+      "id": 358,
+      "question": "W którym mieście możemy zwiedzać muzeum sztuki współczesnej 'Znaki Czasu'?",
+      "answer": "w Toruniu",
+      "episode": "e2s77"
+    },
+    {
+      "id": 357,
+      "question": "Czy Jakub i Ezaf, synowie Izaaka i Rebeki, byli bliźniakami?",
+      "answer": "tak",
+      "episode": "e2s77"
+    },
+    {
+      "id": 356,
+      "question": "Jaka aktorka zagrała George Sand w filmie 'CHOPIN. PRAGNIENIE MIŁOŚCI'",
+      "answer": "Danuta Stenka (Chopina grał Piotr Adamczyk)",
+      "episode": "e2s77"
+    },
+    {
+      "id": 355,
+      "question": "Jak nazwiemy odejście od tematu rozmowy?",
+      "answer": "Dygresja",
+      "episode": "e2s77"
+    },
+    {
+      "id": 354,
+      "question": "Iluizbowy jest parlament Danii? (Folketinget)",
+      "answer": "jednoizbowy",
+      "episode": "e2s77"
+    },
+    {
+      "id": 353,
+      "question": "'Wszyscy ludzie prezydenta', jaki zawód wykonują główni bohaterowie tego filmu?",
+      "answer": "są dziennikarzami którzy odkryli aferę watergate",
+      "episode": "e2s77"
+    },
+    {
+      "id": 352,
+      "question": "'Klaskaniem mając obrzękłe, prawice, znudzony pieśnią, lud wołał o czyny', czyje to słowa?",
+      "answer": "Cyprian Kamil Norwid",
+      "episode": "e2s77"
+    },
+    {
+      "id": 351,
+      "question": "Jak nazywamy pierwszą epokę w historii wszechświata?",
+      "answer": "era Plancka",
+      "episode": "e2s77"
+    },
+    {
+      "id": 350,
+      "question": "Kamień piekielny to dawna potoczna nazwa którego związku chemicznego?",
+      "answer": "azotanu srebra (lapisu)",
+      "episode": "e2s77"
+    },
+    {
+      "id": 349,
+      "question": "Kto wprowadził 7 nowych gwiazdozbiorów, w tym 'tarczę sobieskiego'?",
+      "answer": "Jan Heweliusz",
+      "episode": "e2s77"
+    },
+    {
+      "id": 348,
+      "question": "W czasie której wojny odbywa się akcja filmu 'Złoto Dla Zuchwałych'",
+      "answer": "w II wojnie światowej",
+      "episode": "e2s77"
+    },
+    {
+      "id": 347,
+      "question": "Kto jest twórcą muzyki do baletu harnasie?",
+      "answer": "Karol Szymanowski",
+      "episode": "e2s77"
+    },
+    { "id": 346, "question": "Czy Węgry graniczą z Czechami?", "answer": "Nie", "episode": "e2s77" },
+    {
+      "id": 345,
+      "question": "Dewizą którego świętego było 'ora et labora' (módl się i pracuj)",
+      "answer": "Benedykta",
+      "episode": "e2s77"
+    },
+    {
+      "id": 344,
+      "question": "Czy cesarz Hadrian władał przed czy po Chrystusie?",
+      "answer": "po (II wiek n.e.)",
+      "episode": "e2s77"
+    },
+    {
+      "id": 343,
+      "question": "Jakim imieniem przedstawił się Odyseusz oślepionemu Polifemowi?",
+      "answer": "nikt",
+      "episode": "e2s77"
+    },
+    {
+      "id": 342,
+      "question": "Która góra jest wyższa, Elbrus czy Mount Blanc?",
+      "answer": "Elbrus (5600 m) Mount Blanc (4800)",
+      "episode": "e2s77"
+    },
+    {
+      "id": 341,
+      "question": "Czy Mel Gibson wcielił się kiedyś w postać Hamleta?",
+      "answer": "tak",
+      "episode": "e2s77"
+    },
+    {
+      "id": 340,
+      "question": "Jakim okrzykiem od XV wieku heroldowie ogłoszali śmierć króla Francji i ogłoszenie jego następcy?",
+      "answer": "Umarł król, niech żyje król",
+      "episode": "e2s77"
+    },
+    {
+      "id": 339,
+      "question": "Jak miała na imię główna bohaterka dramatu 'Dom Lalki' Ibsena?",
+      "answer": "Lora",
+      "episode": "e2s77"
+    },
+    {
+      "id": 338,
+      "question": "W którym kraju minimalny wiek głosowania w wyborach europejskich to 16 lat? W Niemczech, Holandii czy Austrii?",
+      "answer": "w Austrii",
+      "episode": "e2s77"
+    },
+    {
+      "id": 337,
+      "question": "Jaki symbol chemiczny ma pierwiastek cez?",
+      "answer": "Cs",
+      "episode": "e2s77"
+    },
+    {
+      "id": 336,
+      "question": "Woytywa to w kościele katolickim odputst całkowity czy msza odprawiana w specjalnej intencji?",
+      "answer": "msza",
+      "episode": "e2s77"
+    },
+    {
+      "id": 335,
+      "question": "Na jakie dwa odłamy podzielili się goci?",
+      "answer": " na ostrogotów i wizygotów",
+      "episode": "e2s77"
+    },
+    {
+      "id": 334,
+      "question": "Pod jakim pseudonimem był znany francuski pisarz i filozof okresu oświecenia François-Marie Arouet?",
+      "answer": "Wolter (Voltaire)",
+      "episode": "e2s77"
+    },
+    {
+      "id": 332,
+      "question": "Gdzie w Polsce znajduje się największy most, most rędziński?",
+      "answer": "we Wrocaławiu",
+      "episode": "e2s77"
+    },
+    {
+      "id": 331,
+      "question": "Komu przypisuje się słowa 'Więcej Światła' wypowiedziane na łożu śmierci?",
+      "answer": "Johannowi Wolfagangowi Goethemu",
+      "episode": "e2s77"
+    },
+    {
+      "id": 330,
+      "question": "Puszcz Kozienicka znajduje sie na terenie którego województwa?",
+      "answer": "Mazowieckiego",
+      "episode": "e2s77"
+    },
+    {
+      "id": 329,
+      "question": "Który samochód oprócz telewizora i mebli, jest szczytem marzeń w piosence 'Nie Płacz Ewka'?",
+      "answer": "mały fiat",
+      "episode": "e2s77"
+    },
+    {
+      "id": 328,
+      "question": "W imieniu wodza hunów, jest dwa razy L czy dwa razy T?",
+      "answer": "dwa razy T - Attyla",
+      "episode": "e2s77"
+    },
+    {
+      "id": 327,
+      "question": "Królowie której dynastii leżą w kaplicy zygmuntowskiej w katedrze wawelskiej?",
+      "answer": "Jagiellonów (od Zygmunta Starego)",
+      "episode": "e2s77"
+    },
+    {
+      "id": 326,
+      "question": "Łączna liczba protonów i neutronów w jądrze atomu, to liczba masowa czy atomowa?",
+      "answer": "masowa",
+      "episode": "e2s77"
+    },
+    {
+      "id": 325,
+      "question": "Którą część ciała babcie chroniły przed mrozem mufką?",
+      "answer": "dłonie",
+      "episode": "e2s77"
+    },
+    {
+      "id": 324,
+      "question": "Jak miał na imię Fidler, pisarz i podróznik?",
+      "answer": "Arkady",
+      "episode": "e2s77"
+    },
+    {
+      "id": 323,
+      "question": "Kto mieszka przy Dawning Street w Londynie?",
+      "answer": "Premier",
+      "episode": "e2s77"
+    },
+    {
+      "id": 322,
+      "question": "Bóg Apis, z której przedhelleńskiej mitologii pochodził?",
+      "answer": "Egipskiej",
+      "episode": "e2s77"
+    },
+    {
+      "id": 321,
+      "question": "Jak piszemy sakwojaż? (to taka torba podróżna",
+      "answer": "ż",
+      "episode": "e2s77"
+    },
     {
       "id": 320,
       "question": "Skąd pochodził Louis Chevrolet, Konstruktor samochodowy",
