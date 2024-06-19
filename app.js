@@ -5,8 +5,10 @@ document.addEventListener("DOMContentLoaded", () => {
   const episodeIdElement = document.getElementById("episode-id");
   const nextButton = document.getElementById("next-button");
   const jsonButtons = document.querySelectorAll(".json-button");
+  const rangeSelect = document.getElementById("range-select");
 
   let elements = [];
+  let filteredElements = [];
   let currentElement = null;
   let showQuestion = true;
 
@@ -15,10 +17,34 @@ document.addEventListener("DOMContentLoaded", () => {
       const response = await fetch(file);
       const data = await response.json();
       elements = data.elements;
+      populateSelectOptions();
       changeElement(); // Choose a random element initially
     } catch (error) {
       console.error("Error fetching data:", error);
     }
+  };
+
+  const populateSelectOptions = () => {
+    const maxId = Math.max(...elements.map((el) => el.id));
+    rangeSelect.innerHTML = '<option value="all">All</option>';
+    for (let i = 0; i < maxId; i += 200) {
+      const rangeStart = i + 1;
+      const rangeEnd = i + 200;
+      const option = document.createElement("option");
+      option.value = `${rangeStart}-${rangeEnd}`;
+      option.textContent = `${rangeStart}-${rangeEnd}`;
+      rangeSelect.appendChild(option);
+    }
+  };
+
+  const filterElementsByRange = (range) => {
+    if (range === "all") {
+      filteredElements = elements;
+    } else {
+      const [start, end] = range.split("-").map(Number);
+      filteredElements = elements.filter((el) => el.id >= start && el.id <= end);
+    }
+    changeElement();
   };
 
   const toggleQA = () => {
@@ -27,8 +53,9 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   const changeElement = () => {
-    const randomIndex = Math.floor(Math.random() * elements.length);
-    currentElement = elements[randomIndex];
+    if (filteredElements.length === 0) return;
+    const randomIndex = Math.floor(Math.random() * filteredElements.length);
+    currentElement = filteredElements[randomIndex];
     showQuestion = true; // Reset to show question when a new element is chosen
     displayElement();
   };
@@ -49,6 +76,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   questionWrapper.addEventListener("click", toggleQA);
   nextButton.addEventListener("click", changeElement);
+  rangeSelect.addEventListener("change", (e) => filterElementsByRange(e.target.value));
 
   // Load default JSON file initially
   fetchData("./public/gpt-new.json");

@@ -1,10 +1,5 @@
 {
   "elements": [
-    { "id": 371, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 370, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 369, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 368, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
-    { "id": 367, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
     { "id": 366, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
     {
       "id": 365,
@@ -26,7 +21,7 @@
     },
     {
       "id": 363,
-      "question": "Nazwa którą dzieli dzielnica w Warszawie i część dzielnicy Krakowa Zwierzyniec gdzie znajduję się klasztor kamedułów?",
+      "question": "Nazwa którą dzieli dzielnica w Warszawie i część dzielnicy Krakowa Zwierzyniec gdzie znajduje się klasztor kamedułów?",
       "answer": "Bielany",
       "episode": "e2s77"
     },
