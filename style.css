@@ -86,6 +86,10 @@ button:hover {
   font-size: 0.9em;
 }
 
+.range-select {
+  border-radius: 20px;
+}
+
 /* Responsive styles */
 @media (max-width: 768px) {
   .question-container {
