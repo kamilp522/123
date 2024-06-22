@@ -86,6 +86,13 @@ button:hover {
   font-size: 0.9em;
 }
 
+.episode-name {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  font-size: 0.9em;
+}
+
 .range-select {
   border-radius: 20px;
 }

@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
   const questionWrapper = document.getElementById("question-wrapper");
-  const questionContainer = document.getElementById("question-container");
   const questionElement = document.getElementById("question");
   const episodeIdElement = document.getElementById("episode-id");
+  const episodeNameElement = document.getElementById("episode-name");
   const nextButton = document.getElementById("next-button");
   const jsonButtons = document.querySelectorAll(".json-button");
   const rangeSelect = document.getElementById("range-select");
@@ -64,6 +64,12 @@ document.addEventListener("DOMContentLoaded", () => {
     if (currentElement) {
       questionElement.textContent = showQuestion ? currentElement.question : currentElement.answer;
       episodeIdElement.textContent = `ID: ${currentElement.id}`;
+      if (currentElement.episode && currentElement.episode.trim() !== "") {
+        episodeNameElement.style.display = "block";
+        episodeNameElement.textContent = `episode: ${currentElement.episode}`;
+      } else {
+        episodeNameElement.style.display = "none";
+      }
     }
   };
 

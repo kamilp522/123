@@ -1,0 +1,418 @@
+{
+  "elements": [
+    {
+      "id": 1,
+      "question": "Ofensywa oznacza natarcie czy obronę?",
+      "answer": "Natarcie",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 2,
+      "question": "Kto napisał poematy Myszeida i Monachomachia?",
+      "answer": "Ignacy Krasicki",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 3,
+      "question": "Nuklearny to odmiana której gry?",
+      "answer": "Bilarda",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 4,
+      "question": "Z którymi dwoma państwami graniczy Andora?",
+      "answer": "Francją i Hiszpanią",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 5,
+      "question": "Podczas której wojny światowej po raz pierwszy pojawiło się określenie 'alianci'?",
+      "answer": "Pierwszej wojny światowej",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 6,
+      "question": "Co można robić do rozpuku?",
+      "answer": "Śmiać się",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 7,
+      "question": "Który trzy litery są oznaczeniem jednostki pracy kilowatogodziny?",
+      "answer": "kWh",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 8,
+      "question": "Sędzia Seattle to okres w kulturze obejmujący trzy dekady którego wieku?",
+      "answer": "Dziewiętnastego wieku",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 9,
+      "question": "Częścią którego miasta jest Wrzeszcz?",
+      "answer": "Gdańska",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 10,
+      "question": "Jak miała na imię bohaterka Sonetów miłosnych Petrarki?",
+      "answer": "Laura",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 11,
+      "question": "Jak nazywa się japoński miniaturowy pejzaż wykonany na tacy z piasku i kamyczków?",
+      "answer": "Bonseki",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 12,
+      "question": "Ile razy w ciągu roku ma miejsce równonoc?",
+      "answer": "Dwa razy",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 13,
+      "question": "Czy w Ameryce Północnej żyją torbacze?",
+      "answer": "Tak",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 14,
+      "question": "Ile ramion gwiazdy mają na bojowych samolotach amerykańskich?",
+      "answer": "Pięć ramion",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 15,
+      "question": "Kto odkrył Jamajkę?",
+      "answer": "Krzysztof Kolumb",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 16,
+      "question": "Jak nazywa się stolica Luksemburga?",
+      "answer": "Luksemburg",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 17,
+      "question": "Odmianą którego owocu jest kosztela?",
+      "answer": "Jabłka",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 18,
+      "question": "Diego Velasquez to malarz okresu renesansu czy baroku?",
+      "answer": "Baroku",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 19,
+      "question": "Jakim znakiem w zapisie partii szachowej oznaczany jest szach?",
+      "answer": "Krzyżyk",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 20,
+      "question": "Ile masztów ma szkuner?",
+      "answer": "Dwa",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 21,
+      "question": "Jak nazywa się proces nagrzewania a potem nagłego ostudzenia metalu w celu zwiększenia jego twardości?",
+      "answer": "Hartowanie",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 22,
+      "question": "Ilu panów, nie licząc psa, było w łódce według powieści Jerome'a K. Jerome'a?",
+      "answer": "Trzech",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 23,
+      "question": "Które ciało niebieskie stanowi ponad 99% całkowitej masy Układu Słonecznego?",
+      "answer": "Słońce",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 24,
+      "question": "Czy kontra tenor jest głosem wyższym czy niższym niż tenor?",
+      "answer": "Wyższym",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 25,
+      "question": "W którym województwie leży polska część Puszczy Białowieskiej?",
+      "answer": "Podlaskim",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 26,
+      "question": "Jak nazywa się grecka wyspa, na której odkryto pomnik Nike?",
+      "answer": "Samotraka",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 27,
+      "question": "Które związki powodują rdzawy zabarwienie powierzchni Marsa?",
+      "answer": "Związki żelaza",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 28,
+      "question": "Jaki jest polski synonim obcego wyrazu 'dręczone'?",
+      "answer": "Torturowane",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 29,
+      "question": "Atrakcją którego europejskiego państwa jest Palacio Nacional da Pena?",
+      "answer": "Portugalia",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 30,
+      "question": "Ile stref okupacyjnych Niemiec ustalono na konferencji poczdamskiej?",
+      "answer": "Cztery",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 31,
+      "question": "Który aktor filmie Barbie śpiewał piosenkę 'Push'?",
+      "answer": "Ryan Gosling",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 32,
+      "question": "Ile kątów przyległych tworzy kąt półpełny?",
+      "answer": "Dwa",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 33,
+      "question": "Mars Madness to nazwa turnieju akademickiego w której dziedzinie sportu?",
+      "answer": "Koszykówce",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 34,
+      "question": "Kto jest autorem powieści 'Wojna z Dacjanami'?",
+      "answer": "Rafał Kosik",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 35,
+      "question": "Czym zajmowała się w dawnej Polsce żupa?",
+      "answer": "Wydobyciem soli",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 36,
+      "question": "Jak nazywa się część zęba pokryta szkliwem?",
+      "answer": "Korona zęba",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 37,
+      "question": "W którym państwie jest najwyżej położone stale zamieszkane miasto na świecie?",
+      "answer": "Peru",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 38,
+      "question": "Wymień dwa z czterech symboli przypisywanych czterem ewangelistom.",
+      "answer": "Orzeł, wół, lew, człowiek",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 39,
+      "question": "Który polski książę był inicjatorem zakupów okolicach Stambułu ziemi, na której powstała polska osada?",
+      "answer": "Adam Jerzy Czartoryski",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 40,
+      "question": "Jak nazywa się typ bezkręgowców do których należą rozgwiazdy oraz jeżowce?",
+      "answer": "Szkarłupnie",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 41,
+      "question": "Który film został nagrodzony Orłem w 2024 roku?",
+      "answer": "Zielona granica",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 42,
+      "question": "Ile lat trwa kadencja niestałych członków Rady Bezpieczeństwa ONZ?",
+      "answer": "Dwa lata",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 43,
+      "question": "W którym włoskim mieście Szekspir umieścił akcję Romea i Julii?",
+      "answer": "W Weronie",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 44,
+      "question": "Czy w Polsce możemy znaleźć topazy?",
+      "answer": "Tak",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 45,
+      "question": "Jak nazywa się rzeka we Francji nad którą miały miejsce dwie wielkie bitwy?",
+      "answer": "Marna",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 46,
+      "question": "Czym leczone są kuracjuszy w uzdrowisku w ramach hydroterapii?",
+      "answer": "Wodą",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 47,
+      "question": "Jak nazywa się grecka bogini miłości?",
+      "answer": "Afrodyta",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 48,
+      "question": "Który aktor widniał na plakacie wyborczym Solidarności w 1989 roku?",
+      "answer": "Gary Cooper",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 49,
+      "question": "Czy niemieckie miasto Bonn jest miastem uniwersyteckim?",
+      "answer": "Tak",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 50,
+      "question": "W którym polskim dramacie występuje postać niewidomej wdowy pani Rollison?",
+      "answer": "Dziady",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 51,
+      "question": "Jaki kod wywoławczy miał porucznik Borewicz w serialu?",
+      "answer": "07",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 52,
+      "question": "W którym państwie formacji wojskowej Sean Bacher Sally?",
+      "answer": "Włochy",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 53,
+      "question": "Obserwacja i analiza własnych myśli i przeżyć to introspekcja czy eksterioryzacja?",
+      "answer": "Introspekcja",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 54,
+      "question": "Faworytce którego francuskiego króla przypisuje się powiedzenie 'po nas choćby potop'?",
+      "answer": "Ludwika XV",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 55,
+      "question": "Jak w mitologii nordyckiej nazywa się bogini miłości?",
+      "answer": "Freja",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 56,
+      "question": "Które polskie miasto zostało wymienione w hymnie państwowym?",
+      "answer": "Poznań",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 57,
+      "question": "Ile stopni szerokości geograficznej ma biegun północny?",
+      "answer": "90 stopni",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 58,
+      "question": "Jak nazywa się brytyjski pisarz twórca cyklu powieści 'Świat Dysku'?",
+      "answer": "Terry Pratchett",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 59,
+      "question": "Jak nazywa się część sceny znajdująca się przed kurtyną?",
+      "answer": "Przestrzeń przed kurtyną",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 60,
+      "question": "Czym w dawnej Polsce zajmował się dzieje szczy?",
+      "answer": "Swataniem",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 61,
+      "question": "Na jakich dystansach rozgrywany jest chód mężczyzn na igrzyskach olimpijskich?",
+      "answer": "20 km i 50 km",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 62,
+      "question": "Podaj tytuły dwóch powieści Józefa Ignacego Kraszewskiego które zostały sfilmowane po drugiej wojnie światowej.",
+      "answer": "Stara Baśń, Hrabina Cosel",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 63,
+      "question": "Magnus Carlsen to wielokrotny mistrz świata w której grze?",
+      "answer": "Szachy",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 64,
+      "question": "Czy kwas cytrynowy jest związkiem organicznym?",
+      "answer": "Tak",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 65,
+      "question": "Jak nazywa się międzynarodowa wystawa sztuki organizowana co trzy lata?",
+      "answer": "Triennale",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 66,
+      "question": "Jak nazywał się polski filozof autor książki 'Moje słuszne poglądy na wszystko'?",
+      "answer": "Leszek Kołakowski",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 67,
+      "question": "Czy prezydent Rzeczypospolitej może sam zrzec się urzędu?",
+      "answer": "Tak",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 68,
+      "question": "Które zwierzęta ocaliły Rzym oblegany przez Gallów w 390 roku p.n.e.?",
+      "answer": "Gęsi",
+      "episode": "finał 143 edycji"
+    },
+    {
+      "id": 69,
+      "question": "Jakie są lata w tytule wspomnieniowej powieści Kornela Makuszyńskiego?",
+      "answer": "Szczenięce lata",
+      "episode": "finał 143 edycji"
+    }
+  ]
+}
