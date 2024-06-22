@@ -1,265 +1,373 @@
 {
   "elements": [
-    { "id": 411, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    { "id": 429, "question": "xxxxxxxxxxx", "answer": "xxxxxxxxxxxx", "episode": "" },
+    {
+      "id": 428,
+      "question": "Ruda to część nazwy gatunkowej występującej w Polsce Kuny czy Nornicy?",
+      "answer": "Nornicy",
+      "episode": "e8s135"
+    },
+    {
+      "id": 427,
+      "question": "Jak miała na imię bohaterka utworu Ignacego Kraszewskiego, jedna z bohaterek starej baśni, żona chwostka, niemka, okrutna trucicielka?",
+      "answer": "Brunhilda",
+      "episode": "e8s135"
+    },
+    {
+      "id": 426,
+      "question": "Egida - tarcza ze skóry kozy, była atrybutem której bogini?",
+      "answer": "Ateny",
+      "episode": "e8s135"
+    },
+    {
+      "id": 425,
+      "question": "Jak nazywa się opera komiczna Bedricha Smetany będąca czeską operą narodową?",
+      "answer": "sprzedana narzeczona",
+      "episode": "e8s135"
+    },
+    {
+      "id": 424,
+      "question": "Denaturat to alkohol etylowy czy metylowy?",
+      "answer": "etylowy",
+      "episode": "e8s135"
+    },
+    {
+      "id": 423,
+      "question": "Jak nazywa się władza wojskowych wynikająca z zamachu stanu w krajach Ameryki Południowej?",
+      "answer": "Junta (czyta się hunta)",
+      "episode": "e8s135"
+    },
+    {
+      "id": 422,
+      "question": "W jakim starożytnym mieście-państwie obowiązywały bardzo surowe prawa które wzięły nazwę od ich twórcy - Drakońskie Prawo?",
+      "answer": "w Atenach",
+      "episode": "e8s135"
+    },
+    {
+      "id": 421,
+      "question": "Czy Kambodża ma dostęp do morza?",
+      "answer": "tak",
+      "episode": "e8s135"
+    },
+    {
+      "id": 420,
+      "question": "W którym wieku żył wybitny portrecista, Henryk Rodakowski?",
+      "answer": "w XIX wieku",
+      "episode": "e8s135"
+    },
+    {
+      "id": 419,
+      "question": "Jak nazywa się dziedzina zoologii, nauka o mięczakach?",
+      "answer": "Malakologia",
+      "episode": "e8s135"
+    },
+    {
+      "id": 418,
+      "question": "Kto jest autorem 'Pozegnanie Jesieni' oraz sztuki 'Szewcy'",
+      "answer": "Witkacy",
+      "episode": "e8s135"
+    },
+    {
+      "id": 417,
+      "question": "Jak nazywa się wspaniała kraina opisana w 'Kandydzie' Woltera?",
+      "answer": "Eldorado",
+      "episode": "e8s135"
+    },
+    {
+      "id": 416,
+      "question": "Proszę dokończuć łacińską sentencję - Vox populi...",
+      "answer": "Vox dei (głos ludu jest głosem boga)",
+      "episode": "e8s135"
+    },
+    {
+      "id": 415,
+      "question": "Jak nazywa się dźwiek o gamie C obniżony o pół tonu?",
+      "answer": "Ces (dźwięk obniżony o pół tonu ma końcówkę -es, a podwyższony -is)",
+      "episode": "e8s135"
+    },
+    {
+      "id": 414,
+      "question": "Jaki jest barbarzyńca w tytule powieści Bohumila Hrabala?",
+      "answer": "czuły",
+      "episode": "e8s135"
+    },
+    {
+      "id": 413,
+      "question": "Czy spinnaker stosowany w żeglarstwie to jeden z masztów?",
+      "answer": "Nie, to dodatkowy żagiel o dużej powierzchni, podnoszony przy małym wietrze",
+      "episode": "e8s135"
+    },
+    {
+      "id": 412,
+      "question": "Langley stan Virginia - to siedziba CIA czy FBI?",
+      "answer": "CIA",
+      "episode": "e8s135"
+    },
+    {
+      "id": 411,
+      "question": "W którym państwie znajduje się pasmo górskie Dolomity?",
+      "answer": "we Włoszech",
+      "episode": "e8s135"
+    },
     {
       "id": 410,
       "question": "Jak nazywał się aktor który grał ze śmiercią w szachy w 'siódmej pieczęci' Ingmara Bergmana?",
       "answer": "Max von Sydow",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 409,
-      "question": "Semiramida północy - której władczyni nadał taki pzydomek Wolter?",
+      "question": "Semiramida północy - której władczyni nadał taki przydomek Wolter?",
       "answer": "Katarzynie II",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 408,
       "question": "Dokończ pierwsze zdanie wierszyka dla dzieci: 'Czarna krowa w kropki bordo. . .'",
       "answer": "'. . .gryzła trawę kręcąc mordą'",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 407,
       "question": "Jak nazywa się jadalnia w klasztorze?",
       "answer": "Refektarz",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 406,
       "question": "W którym pańtwie leży miasto Siena?",
       "answer": "we Włoszech",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 405,
       "question": "Jak w mitologii nazywały nimfy, odpowiedniki greckich muz?",
       "answer": "Kameny",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 404,
       "question": "Do którego roku Bonn było stolicą RFN?",
       "answer": "Bonn",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 403,
       "question": "Jak nazywała się dziewczynka, bohaterka piotrusia pana?",
       "answer": "Wanda",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 402,
       "question": "Jak nazywał się artysta który zaprokektował barceloński Park Güell",
       "answer": "Antoni Gaudi",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 401,
       "question": "Jak nazwiemy z łaciny człowieka wyprzedzającego swoje czasy?",
       "answer": "Prekursor",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 400,
       "question": "Skąd pochodzili bracia Wright, twórcy samolotu?",
       "answer": "z USA",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 399,
       "question": "Który międzynarodowy język powstał wcześniej, esperanto czy wolapik?",
       "answer": "Wolapik",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 398,
       "question": "Czy katolickich księży obowiązuje tonzura?",
       "answer": "nie (tonzura to wygolony krążek obejmujący ciemię)",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 397,
       "question": "W którym pańwtwie powstał oberek?",
       "answer": "w Polsce",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 396,
       "question": "Wymiana tlenu i dwutlenku węgla odbywa się w pęcherzykach płucnych czy prawej komorze serca?",
       "answer": "w pęcherzykach płucnych",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 395,
       "question": "Który SZKOCKI fizyk w 1846 r. opracował skalę temperatury nazwaną jego imieniem?",
       "answer": "lord Kelvin",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 394,
       "question": "Jak nazywa się polska autorka powieści kryminalnych, między innymi takich dzieł jak 'Okularnik', 'Pochłaniacz'",
       "answer": "Katarzyna Bonda",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 393,
       "question": "Jak nazywa się strumień naładowanych elektrycznie cząstek wypływających z korony słonecznej w przestrzeń międzyplanetarną?",
       "answer": "wiatr słoneczny",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 392,
       "question": "Jakim miastem władał Agamemnon?",
       "answer": "Argos",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 391,
       "question": "Komu przypisuje się słowa 'Od wzniosłości do śmieszności tylko jeden krok'",
       "answer": "Napoleon Bonaparte",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 389,
       "question": "W których górach wznosi się szczyt Brocken, na którym według legendy odbywają się sabaty czarownic?",
       "answer": "w górach Harz",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 388,
       "question": "Rzemieślnik zajmujący się szyciem odzieży skórzanej i futer to inaczej . . .",
       "answer": "Kuśnierz",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 387,
       "question": "Jak nazywali się synowie noego?",
       "answer": "Ham, Sem i Jafet",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 386,
       "question": "Gdzie został posłany prorok Jonasz aby ogłosić wyrok bozy za zło którego się doupszczają mieszkańcy?",
       "answer": "do Niniwy",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 385,
       "question": "Jak nazywa się parlament Szwecji?",
       "answer": "Riksdag",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 384,
       "question": "Kto w XVI wieku przełożył biblię z hebrajskiego i greckiego na niemiecki?",
       "answer": "Marcin Luter",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 383,
       "question": "Z którego kontynentu pochodzą frezje, kwiaty uprawiane również w Polsce?",
       "answer": "z Afryki",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 382,
       "question": "Kto zamordował malarza, autora portretu Doriana Graya w powieści Oscara Wilde?",
       "answer": "Dorian Gray",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 381,
       "question": "Kto grał podstarzałego rockmana w filmie 'Idol'?",
       "answer": "Al Pacino",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 380,
       "question": "Czy pszenica może być wysiewana jesienią?",
       "answer": "tak",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 379,
       "question": "Jak nazywa się właściwość figur geometrycznych która może być osiowa, środkowa, obrotowa?",
       "answer": "symetria",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 378,
       "question": "'... kula w łeb' Władysława Broniewskiego. Z jakiego to utworu?'",
       "answer": "Bagnet na Broń",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 377,
       "question": "Platon i Arystoteles byli krytykami demokracji czy oligarchii?",
       "answer": "Demokracji",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 376,
       "question": "Jaka jest nazwa równoleżnika o szerokoście geograficznej 66 stopni i 33 minut?",
       "answer": "koło podbiegunowe",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 375,
       "question": "Stolicą którego państwa jest miasto Katmandu?",
       "answer": "Nepalu",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 374,
       "question": "Na ile stref okupacyjnych została podzielona po II wś Austria?",
       "answer": "na 4 (tyle samo co Niemcy)",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 373,
       "question": "Lew morski to nazwa planu ataku Niemiec na które państwo?",
       "answer": "na Wielką Brytanię",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 372,
       "question": "W którym wieku żył francuski chemik Antoine de Lavoisier",
       "answer": "w XVIII wieku",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 371,
       "question": "Drewno lipy jest miękkie czy twarde?",
       "answer": "miękkie",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 370,
       "question": "W której konkurencji Paweł Fajdek zdobył złoty medal w dysplinie lekkoatletycznej w Pekinie?",
       "answer": "rzut młotem",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 369,
       "question": "Jakie ukraińskie miasto nosiło nazwę Józofka i Stalino. Obecnie miejsce walk z separatystami.",
       "answer": "Donieck",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 368,
       "question": "Kanclerz to tytuł szefa rządu w dwóch państawch europejskich. Jakich?",
       "answer": "W Niemczech i Austrii",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
     {
       "id": 367,
       "question": "Aloea należy do sukulentów, traw czy drzew?",
       "answer": "Sukulentów",
-      "episode": "s12e89"
+      "episode": "e12s89"
     },
-    { "id": 366, "question": "Czy gile zimują w Polsce?", "answer": "tak, zmimują", "episode": "s12e89" },
+    { "id": 366, "question": "Czy gile zimują w Polsce?", "answer": "tak, zmimują", "episode": "e12s89" },
     {
       "id": 365,
       "question": "Stolicą którego regionu Hiszpanii jest Sewilla?",
