@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const episodeIdElement = document.getElementById("episode-id");
   const episodeNameElement = document.getElementById("episode-name");
   const nextButton = document.getElementById("next-button");
-  const jsonButtons = document.querySelectorAll(".json-button");
+  const jsonSelect = document.getElementById("json-select");
   const rangeSelect = document.getElementById("range-select");
 
   let elements = [];
@@ -73,11 +73,9 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   };
 
-  jsonButtons.forEach((button) => {
-    button.addEventListener("click", () => {
-      const file = button.getAttribute("data-file");
-      fetchData(file);
-    });
+  jsonSelect.addEventListener("change", () => {
+    const file = jsonSelect.value;
+    fetchData(file);
   });
 
   questionWrapper.addEventListener("click", toggleQA);

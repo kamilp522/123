@@ -18,19 +18,9 @@ body {
   margin-bottom: 20px;
 }
 
-.file-buttons button {
-  font-size: 1em;
-  padding: 10px 20px;
-  border-radius: 10px;
+.file-buttons select {
   margin: 0 10px;
-  cursor: pointer;
-  border: none;
-  background-color: #aaa;
-  transition: background-color 0.3s;
-}
-
-.file-buttons button:hover {
-  background-color: #888;
+  padding: 3px 6px;
 }
 
 .question-wrapper {

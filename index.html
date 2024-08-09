@@ -8,11 +8,13 @@
   </head>
   <body>
     <div class="file-buttons">
-      <button class="json-button" data-file="./public/chomik.json">chomik</button>
-      <button class="json-button" data-file="./public/watched.json">watched</button>
-      <button class="json-button" data-file="./public/vosk.json">vosk</button>
-      <button class="json-button" data-file="./public/seria135.json">135</button>
-      <button class="json-button" data-file="./public/finals.json">finały</button>
+      <select id="json-select" class="range-select">
+        <option value="./public/chomik.json">chomik</option>
+        <option value="./public/watched.json">watched</option>
+        <option value="./public/vosk.json">vosk</option>
+        <option value="./public/seria135.json">135</option>
+        <option value="./public/finals.json">finały</option>
+      </select>
       <select class="range-select" id="range-select">
         <option value="all">All</option>
       </select>
