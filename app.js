@@ -85,5 +85,5 @@ document.addEventListener("DOMContentLoaded", () => {
   rangeSelect.addEventListener("change", (e) => filterElementsByRange(e.target.value));
 
   // Load default JSON file initially
-  fetchData("./public/gpt-new.json");
+  fetchData("./public/chomik.json");
 });
