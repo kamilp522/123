@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const episodeIdElement = document.getElementById("episode-id");
   const episodeNameElement = document.getElementById("episode-name");
   const nextButton = document.getElementById("next-button");
+  const googleButton = document.getElementById("google-button");
   const jsonSelect = document.getElementById("json-select");
   const rangeSelect = document.getElementById("range-select");
 
@@ -73,6 +74,14 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   };
 
+  const searchGoogle = () => {
+    const query = questionElement.textContent;
+    if (query) {
+      const googleUrl = `https://www.google.com/search?q=${encodeURIComponent(query)}`;
+      window.open(googleUrl, "_blank");
+    }
+  };
+
   jsonSelect.addEventListener("change", () => {
     const file = jsonSelect.value;
     fetchData(file);
@@ -80,6 +89,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   questionWrapper.addEventListener("click", toggleQA);
   nextButton.addEventListener("click", changeElement);
+  googleButton.addEventListener("click", searchGoogle);
   rangeSelect.addEventListener("change", (e) => filterElementsByRange(e.target.value));
 
   // Load default JSON file initially

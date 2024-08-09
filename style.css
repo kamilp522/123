@@ -54,6 +54,10 @@ body {
   width: 100%;
 }
 
+.button-wrapper button {
+  margin: 12px;
+}
+
 button {
   font-size: 1em;
   padding: 10px 20px;
