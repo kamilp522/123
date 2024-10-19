@@ -1333,7 +1333,7 @@
     {
       "id": 267,
       "question": "Jak nazywa się wiatr, który szaleje w tytule powieści Josepha Conrada?",
-      "answer": "Walmayer"
+      "answer": "Almayera"
     },
     {
       "id": 268,
@@ -6585,6 +6585,2476 @@
       "id": 1308,
       "question": "W ilu czytaniach sejm rozpatruje projekt ustawy?",
       "answer": "W trzech"
+    },
+    {
+      "id": 1309,
+      "question": "Sześcianem której liczby jest 1000?",
+      "answer": "Dziesięć"
+    },
+    {
+      "id": 1310,
+      "question": "Z ilu komórek zbudowane są pierwotniaki?",
+      "answer": "Z jednej"
+    },
+    {
+      "id": 1311,
+      "question": "W zegarze którego miasta w południe walczą ze sobą dwa koziołki?",
+      "answer": "Poznań"
+    },
+    {
+      "id": 1312,
+      "question": "Czy Belgia ma dostęp do morza?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1313,
+      "question": "Jak nazywał się polski malarz, autor obrazu 'Szał uniesień'?",
+      "answer": "Władysław Podkowiński"
+    },
+    {
+      "id": 1314,
+      "question": "Jakiego koloru są okulary optymisty?",
+      "answer": "Różowe"
+    },
+    {
+      "id": 1315,
+      "question": "Czy rada ministrów w Polsce to władza ustawodawcza czy wykonawcza?",
+      "answer": "Wykonawcza"
+    },
+    {
+      "id": 1316,
+      "question": "Która plaga egipska zamieniła wody Nilu w krew?",
+      "answer": "Pierwsza"
+    },
+    {
+      "id": 1317,
+      "question": "Czy infradźwięki są słyszalne dla człowieka?",
+      "answer": "Nie"
+    },
+    {
+      "id": 1318,
+      "question": "Jakie kolory wystąpiły w tytułach filmów Krzysztofa Kieślowskiego z cyklu 'Trzy kolory'?",
+      "answer": "Biały, niebieski, czerwony"
+    },
+    {
+      "id": 1319,
+      "question": "Jak nazywa się pływanie na desce unoszonej przez morską falę?",
+      "answer": "Surfing"
+    },
+    {
+      "id": 1320,
+      "question": "Czy Jan Kochanowski pisał także po łacinie?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1321,
+      "question": "Kto w dziecięcych wierszykach nie powiedział babie, jak się sieje mak?",
+      "answer": "Dziad"
+    },
+    {
+      "id": 1322,
+      "question": "Jak nazywa się miasto w Izraelu, w którym wznoszą się wzgórza Moria i Golgota?",
+      "answer": "Jerozolima"
+    },
+    {
+      "id": 1323,
+      "question": "Czy odra to zakaźna choroba wirusowa czy wywoływana przez bakterie?",
+      "answer": "Wirusowa"
+    },
+    {
+      "id": 1324,
+      "question": "George to angielski odpowiednik którego polskiego imienia?",
+      "answer": "Jerzy"
+    },
+    {
+      "id": 1325,
+      "question": "Z którego państwa pochodziła Jadwiga Andegaweńska, koronowana na króla Polski?",
+      "answer": "Z Węgier"
+    },
+    {
+      "id": 1326,
+      "question": "W którym europejskim państwie wznoszą się Łysogóry?",
+      "answer": "W Polsce"
+    },
+    {
+      "id": 1327,
+      "question": "Jak w starożytnym Rzymie nazywano niewolników lub skazańców, którzy walczyli na arenie?",
+      "answer": "Gladiatorzy"
+    },
+    {
+      "id": 1328,
+      "question": "Które zwierzę oplata laskę Asklepiosa, boga sztuki lekarskiej?",
+      "answer": "Wąż"
+    },
+    {
+      "id": 1329,
+      "question": "Jak nazywa się święto obchodzone w państwach anglosaskich 31 października, którego symbolem jest wydrążona dynia?",
+      "answer": "Halloween"
+    },
+    {
+      "id": 1330,
+      "question": "Na którym kontynencie leży Algieria?",
+      "answer": "W Afryce"
+    },
+    {
+      "id": 1331,
+      "question": "Kto dowodził napadem na rosyjski pociąg pocztowy w Bezdanie koło Wilna w 1908 roku?",
+      "answer": "Józef Piłsudski"
+    },
+    {
+      "id": 1332,
+      "question": "Jak nazywa się najmniejszy pododdział piechoty, będący częścią plutonu?",
+      "answer": "Drużyna"
+    },
+    {
+      "id": 1333,
+      "question": "Czy kadm jest metalem, gazem, czy związkiem chemicznym?",
+      "answer": "Kadm jest metalem"
+    },
+    {
+      "id": 1334,
+      "question": "Jak nazywają się dwie kolejne liczby pierwsze różniące się o dwa?",
+      "answer": "Liczby bliźniacze"
+    },
+    {
+      "id": 1335,
+      "question": "Czym są kabanosy i frankfurterki?",
+      "answer": "Rodzajami kiełbas"
+    },
+    {
+      "id": 1336,
+      "question": "Wełna czy bawełna – które z tych włókien jest pochodzenia zwierzęcego?",
+      "answer": "Wełna"
+    },
+    {
+      "id": 1337,
+      "question": "Kto jest autorem zbioru opowiadań 'Cyberiada', wydanego w 1965 roku?",
+      "answer": "Stanisław Lem"
+    },
+    {
+      "id": 1338,
+      "question": "Kiedy urodził się Adam Mickiewicz?",
+      "answer": "24 grudnia"
+    },
+    {
+      "id": 1339,
+      "question": "W pobliżu którego miasta w Bułgarii zginął król Polski Władysław III Warneńczyk?",
+      "answer": "W Warnie"
+    },
+    {
+      "id": 1340,
+      "question": "Któremu filozofowi starożytnej Grecji przypisuje się słowa 'Panta rhei' (wszystko płynie)?",
+      "answer": "Heraklit z Efezu"
+    },
+    {
+      "id": 1341,
+      "question": "Czy Jerzy Fryderyk Haendel był kompozytorem barokowym czy renesansowym?",
+      "answer": "Barokowym"
+    },
+    {
+      "id": 1342,
+      "question": "Jak nazywa się forma rządów polegająca na skupieniu władzy w rękach jednej osoby?",
+      "answer": "Dyktatura lub absolutyzm"
+    },
+    {
+      "id": 1343,
+      "question": "Czy wyrażenia 'być oczkiem w głowie' i 'być solą w oku' są bliskoznaczne?",
+      "answer": "Nie"
+    },
+    {
+      "id": 1344,
+      "question": "Który południk oddziela ocean spokojny od atlantyckiego na przylądku Horn?",
+      "answer": "Południk 67° W"
+    },
+    {
+      "id": 1345,
+      "question": "Jak nazywa się niedokończona powieść Franza Kafki, której bohaterem jest mierniczy K.?",
+      "answer": "Zamek"
+    },
+    {
+      "id": 1346,
+      "question": "Ile kątów wewnętrznych ma czworokąt?",
+      "answer": "Cztery"
+    },
+    {
+      "id": 1347,
+      "question": "Do czego pierwszym stopniem jest ciekawość, według przysłowia?",
+      "answer": "Do piekła"
+    },
+    {
+      "id": 1348,
+      "question": "W którym stuleciu otwarto Teatr Narodowy w Warszawie?",
+      "answer": "W XVIII wieku"
+    },
+    {
+      "id": 1349,
+      "question": "W której powieści Władysława Reymonta występuje karczmarz Jankiel?",
+      "answer": "'Chłopi.'"
+    },
+    {
+      "id": 1350,
+      "question": "Jak brzmi tłumaczenie niemieckiego wyrażenia 'Drang nach Osten'?",
+      "answer": "'Naparcie na Wschód.'"
+    },
+    {
+      "id": 1351,
+      "question": "Czy badminton jest dyscypliną olimpijską?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1352,
+      "question": "Która część twarzy jest podkreślana maskarą?",
+      "answer": "Rzęsy"
+    },
+    {
+      "id": 1353,
+      "question": "Jak nazywa się czeski grosz?",
+      "answer": "Haléř"
+    },
+    {
+      "id": 1354,
+      "question": "Jakiego koloru są szaty liturgiczne noszone przez księży w Środę Popielcową?",
+      "answer": "Fioletowe"
+    },
+    {
+      "id": 1355,
+      "question": "Czy Thunderbolt to samolot czy samochód?",
+      "answer": "Samolot"
+    },
+    {
+      "id": 1356,
+      "question": "Wirtuozem którego instrumentu był Yehudi Menuhin?",
+      "answer": "Skrzypiec"
+    },
+    {
+      "id": 1357,
+      "question": "Królem którego europejskiego państwa jest Harald V?",
+      "answer": "Norwegii"
+    },
+    {
+      "id": 1358,
+      "question": "Czy Han Solo, bohater 'Gwiezdnych wojen', był rycerzem Jedi?",
+      "answer": "Nie"
+    },
+    {
+      "id": 1359,
+      "question": "Z której grupy etnicznej pochodził Nikifor Krynicki?",
+      "answer": "Był Łemkiem"
+    },
+    {
+      "id": 1360,
+      "question": "Jak nazywała się starożytna grecka moneta o wartości jednej szóstej drachmy?",
+      "answer": "Obol"
+    },
+    {
+      "id": 1361,
+      "question": "Jak miał na imię austriacki dyrygent von Karajan?",
+      "answer": "Herbert"
+    },
+    {
+      "id": 1362,
+      "question": "Czy powieść poetycka jest pisana prozą czy wierszem?",
+      "answer": "Wierszem"
+    },
+    {
+      "id": 1363,
+      "question": "Która rzeka przepływa przez jezioro Genewskie?",
+      "answer": "Rodan"
+    },
+    {
+      "id": 1364,
+      "question": "W którym roku astronauci z misji Apollo 8 okrążyli Księżyc po raz pierwszy?",
+      "answer": "W 1968 roku"
+    },
+    {
+      "id": 1365,
+      "question": "Które włoskie dzieło kompozytora Rossiniego nosi tytuł 'Cyrulik sewilski'?",
+      "answer": "'Cyrulik sewilski.'"
+    },
+    {
+      "id": 1366,
+      "question": "Jak nazywa się polska nazwa gwiazdozbioru Cetus?",
+      "answer": "Wieloryb"
+    },
+    {
+      "id": 1367,
+      "question": "W którym mieście znajduje się Instytut Immunologii i Terapii Doświadczalnej PAN im. Ludwika Hirszfelda?",
+      "answer": "We Wrocławiu"
+    },
+    {
+      "id": 1368,
+      "question": "Który aktor i reżyser powiedział: 'Jestem smutny, bo stałem się bogaty grając biednych'?",
+      "answer": "Charlie Chaplin"
+    },
+    {
+      "id": 1369,
+      "question": "Kto był sędzią w mitycznym sporze o jabłko niezgody?",
+      "answer": "Parys"
+    },
+    {
+      "id": 1370,
+      "question": "Jak miała na imię pierwsza kobieta, która została wiceministrem badań naukowych we Francji w 1936 roku?",
+      "answer": "Irène Joliot-Curie"
+    },
+    {
+      "id": 1371,
+      "question": "W którym państwie urodził się Enrico Caruso?",
+      "answer": "We Włoszech"
+    },
+    {
+      "id": 1372,
+      "question": "Anders Celsius, fizyk, którego nazwisko nosi skala temperatury, był także lekarzem, astronomem czy chemikiem?",
+      "answer": "Astronomem"
+    },
+    {
+      "id": 1373,
+      "question": "Co oznacza termin 'christiania' w narciarstwie?",
+      "answer": "Ostry skręt na nartach"
+    },
+    {
+      "id": 1374,
+      "question": "W którym państwie leży płaskowyż Nazca, znany z gigantycznych rysunków widocznych z lotu ptaka?",
+      "answer": "W Peru"
+    },
+    {
+      "id": 1375,
+      "question": "Czy Jan Kiepura śpiewał w mediolańskiej operze La Scala?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1376,
+      "question": "Kto w komedii 'Moralność Pani Dulskiej' mówi: 'Mamy cztery ściany i sufit, aby brudy swoje prać w domu'?",
+      "answer": "Aniela Dulska"
+    },
+    {
+      "id": 1377,
+      "question": "W którym stanie USA miała miejsce pierwsza gorączka złota w połowie XIX wieku?",
+      "answer": "W Kalifornii"
+    },
+    {
+      "id": 1378,
+      "question": "Co ma większe znaczenie w kwestii pierwszeństwa przejazdu: sygnały świetlne czy znaki drogowe?",
+      "answer": "Sygnały świetlne"
+    },
+    {
+      "id": 1379,
+      "question": "Który aktor zagrał podwójną rolę księdza i polityka w serialu 'Ranczo'?",
+      "answer": "Cezary Żak"
+    },
+    {
+      "id": 1380,
+      "question": "Czyngis-chan był władcą którego imperium?",
+      "answer": "Imperium Mongolskiego"
+    },
+    {
+      "id": 1381,
+      "question": "Przy której ulicy miał swój sklep Stanisław Wokulski?",
+      "answer": "Krakowskie Przedmieście"
+    },
+    {
+      "id": 1382,
+      "question": "Czy Arystoteles należał do Akademii Platońskiej?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1383,
+      "question": "Jakie miasto jest stolicą Szwecji?",
+      "answer": "Sztokholm"
+    },
+    {
+      "id": 1384,
+      "question": "Jakie imię nosi bohater filmowy Rambo?",
+      "answer": "John"
+    },
+    {
+      "id": 1385,
+      "question": "Kto pomagał Jezusowi nieść krzyż na Golgotę?",
+      "answer": "Szymon z Cyreny"
+    },
+    {
+      "id": 1386,
+      "question": "W których górach znajduje się szczyt Baranie Rogi?",
+      "answer": "W Tatrach"
+    },
+    {
+      "id": 1387,
+      "question": "W którym roku Stanisław Ignacy Witkiewicz popełnił samobójstwo?",
+      "answer": "W 1939 roku"
+    },
+    {
+      "id": 1388,
+      "question": "Jak nazywano skandynawskich dworskich poetów wojowników?",
+      "answer": "Skaldowie"
+    },
+    {
+      "id": 1389,
+      "question": "Czym jest mansarda w budownictwie?",
+      "answer": "To pokój lub mieszkanie na poddaszu"
+    },
+    {
+      "id": 1390,
+      "question": "Na którym kontynencie toczyła się wojna o saletrę w XIX wieku?",
+      "answer": "W Ameryce Południowej"
+    },
+    {
+      "id": 1391,
+      "question": "Czy instrument muzyczny znany we Włoszech jako cembalo miał klawiaturę?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1392,
+      "question": "Jen psaki to ptaki, ryby czy owady?",
+      "answer": "Owady"
+    },
+    {
+      "id": 1393,
+      "question": "W której dziedzinie sztuki specjalizował się Eugène Delacroix?",
+      "answer": "W malarstwie"
+    },
+    {
+      "id": 1394,
+      "question": "Nad którą rzeką leży uniwersyteckie miasto Oxford?",
+      "answer": "Nad Tamizą"
+    },
+    {
+      "id": 1395,
+      "question": "Kto zawsze jest na zdjęciu używanym podczas sesji zdjęciowej?",
+      "answer": "Fotograf"
+    },
+    {
+      "id": 1396,
+      "question": "Jak nazywa się ostatni przypadek deklinacji w języku polskim?",
+      "answer": "Wołacz"
+    },
+    {
+      "id": 1397,
+      "question": "Ile konkurencji rozgrywano w starożytnej Grecji podczas pentatlonu?",
+      "answer": "Pięć"
+    },
+    {
+      "id": 1398,
+      "question": "Jak miał na imię król Polski o przydomku Śmiały?",
+      "answer": "Bolesław"
+    },
+    {
+      "id": 1399,
+      "question": "Czy owocówka jabłkóweczka jest szkodnikiem sadowników?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1400,
+      "question": "Jak nazywa się nowozelandzki reżyser trylogii 'Władca Pierścieni'?",
+      "answer": "Peter Jackson"
+    },
+    {
+      "id": 1401,
+      "question": "Który starożytny heros, by zdobyć nieśmiertelną sławę, podpalił jeden z siedmiu cudów świata?",
+      "answer": "Herostrates"
+    },
+    {
+      "id": 1402,
+      "question": "Jaki zespół liczb ma tę własność, że sumy liczb w każdym wierszu, kolumnie i na przekątnej są jednakowe?",
+      "answer": "Kwadrat magiczny"
+    },
+    {
+      "id": 1403,
+      "question": "Czy Werner chorągiew na obrazie Jana Matejki trzyma w ręku instrument muzyczny?",
+      "answer": "Nie"
+    },
+    {
+      "id": 1404,
+      "question": "W którym państwie funkcję głowy państwa sprawują dwaj kapitanowie regenci?",
+      "answer": "W San Marino"
+    },
+    {
+      "id": 1405,
+      "question": "Która droga jest krótsza: wyznaczona ortodromą czy loksodromą?",
+      "answer": "Wyznaczona ortodromą"
+    },
+    {
+      "id": 1406,
+      "question": "Jak nazywała się łódź, na której Thor Heyerdahl przepłynął Atlantyk?",
+      "answer": "Ra II"
+    },
+    {
+      "id": 1407,
+      "question": "Jak nazywa się opad atmosferyczny w postaci brył lodu?",
+      "answer": "Grad"
+    },
+    {
+      "id": 1408,
+      "question": "Czy monety euro są jednakowe we wszystkich państwach Unii Europejskiej?",
+      "answer": "Nie, mają wspólną stronę i stronę narodową"
+    },
+    {
+      "id": 1409,
+      "question": "Z jakiego rodzaju kamienia wyrzeźbiono posąg Wenus z Milo?",
+      "answer": "Z marmuru"
+    },
+    {
+      "id": 1410,
+      "question": "Jak miał na imię syn francuskiego pisarza, autora *Trzech Muszkieterów*?",
+      "answer": "Aleksander"
+    },
+    {
+      "id": 1411,
+      "question": "Jak nazywa się pojedynczy element schodów oraz liczbowa ocena postępów ucznia?",
+      "answer": "Stopień"
+    },
+    {
+      "id": 1412,
+      "question": "Denazyfikacja to działania podjęte po której wojnie?",
+      "answer": "Po drugiej wojnie światowej"
+    },
+    {
+      "id": 1413,
+      "question": "Czy witamina D rozpuszcza się w wodzie?",
+      "answer": "Nie, rozpuszcza się w tłuszczach"
+    },
+    {
+      "id": 1414,
+      "question": "Co symbolizują gwiazdy na fladze Stanów Zjednoczonych?",
+      "answer": "Obecne stany USA"
+    },
+    {
+      "id": 1415,
+      "question": "Jak nazywa się dwudziesta piąta rocznica ślubu?",
+      "answer": "Srebrne wesele"
+    },
+    {
+      "id": 1416,
+      "question": "Jak nazywa się człowiek władający wieloma językami?",
+      "answer": "Poliglota"
+    },
+    {
+      "id": 1417,
+      "question": "Jak nazywają się dzielnice nędzy w miastach Ameryki Południowej?",
+      "answer": "Fawela"
+    },
+    {
+      "id": 1418,
+      "question": "Synonimem jakiego słowa jest animusz?",
+      "answer": "Zapał"
+    },
+    {
+      "id": 1419,
+      "question": "Ile nadgarstków ma człowiek?",
+      "answer": "Dwa"
+    },
+    {
+      "id": 1420,
+      "question": "Czy porcelana jest dobrym przewodnikiem elektryczności?",
+      "answer": "Nie, jest izolatorem"
+    },
+    {
+      "id": 1421,
+      "question": "Przez którą stolicę płynie rzeka Potomak?",
+      "answer": "Przez Waszyngton"
+    },
+    {
+      "id": 1422,
+      "question": "Kto napisał słowa 'Nie rzucim ziemi, skąd nasz ród'?",
+      "answer": "Maria Konopnicka"
+    },
+    {
+      "id": 1423,
+      "question": "Lemury żyją na Madagaskarze czy na Komorach?",
+      "answer": "Na Madagaskarze"
+    },
+    {
+      "id": 1424,
+      "question": "Jaką postać przybrał szatan, by kusić Ewę?",
+      "answer": "Węża"
+    },
+    {
+      "id": 1425,
+      "question": "Który legendarny potwór według polskich podań zabijał wzrokiem?",
+      "answer": "Bazyliszek"
+    },
+    {
+      "id": 1426,
+      "question": "Ile okrążeń toru wyścigów motocykli na żużlu pokonują zawodnicy?",
+      "answer": "Cztery"
+    },
+    {
+      "id": 1427,
+      "question": "Czy ruletka należy do gier hazardowych?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1428,
+      "question": "Na której części drzewa świerku rosną szyszki?",
+      "answer": "Na górze"
+    },
+    {
+      "id": 1429,
+      "question": "Jak nazywa się praktyka zawodowa osób po studiach prawniczych, przygotowująca do zawodu sędziego lub adwokata?",
+      "answer": "Aplikacja"
+    },
+    {
+      "id": 1430,
+      "question": "W którym miesiącu przypada dzień świętego Walentego?",
+      "answer": "W lutym"
+    },
+    {
+      "id": 1431,
+      "question": "Który azjatycki pisarz jest autorem powieści 'Kronika ptaka nakręcacza czasu' i 'Kafka nad morzem'?",
+      "answer": "Haruki Murakami"
+    },
+    {
+      "id": 1432,
+      "question": "Kształt której litery ma zazwyczaj klucz migrujących żurawi?",
+      "answer": "Litery V"
+    },
+    {
+      "id": 1433,
+      "question": "Czy planety świecą własnym światłem?",
+      "answer": "Nie, odbijają światło gwiazd"
+    },
+    {
+      "id": 1434,
+      "question": "Z którego filmu pochodzi piosenka 'Suicide is Painless'?",
+      "answer": "Z serialu 'M*A*S*H'"
+    },
+    {
+      "id": 1435,
+      "question": "Odmianą której wielkiej religii jest lamaizm wyznawany w Tybecie?",
+      "answer": "Buddyzmu"
+    },
+    {
+      "id": 1436,
+      "question": "Która część umundurowania harcerza świadczy o funkcji, jaką pełni on w organizacji?",
+      "answer": "Sznur"
+    },
+    {
+      "id": 1437,
+      "question": "Kto w Polsce wyznacza termin wyborów prezydenckich?",
+      "answer": "Marszałek Sejmu"
+    },
+    {
+      "id": 1438,
+      "question": "Z której wyspy uciekali Dedal i Ikar na skrzydłach?",
+      "answer": "Z Krety"
+    },
+    {
+      "id": 1439,
+      "question": "Jak brzmi polska nazwa orderu 'Polonia Restituta'?",
+      "answer": "Order Odrodzenia Polski"
+    },
+    {
+      "id": 1440,
+      "question": "Które zjawisko atmosferyczne jest tytułem sztuki Szekspira?",
+      "answer": "Burza"
+    },
+    {
+      "id": 1441,
+      "question": "Ile wynosi okres funkcji sinus?",
+      "answer": "360 stopni lub 2π radianów"
+    },
+    {
+      "id": 1442,
+      "question": "Które rzeki łączy Kanał Augustowski?",
+      "answer": "Wisłę i Niemen"
+    },
+    {
+      "id": 1443,
+      "question": "O której godzinie 17 września 1939 roku podczas pożaru po bombardowaniu zatrzymały się wskazówki zegara na Zamku Królewskim?",
+      "answer": "O 11:15"
+    },
+    {
+      "id": 1444,
+      "question": "Czy zawilec gajowy jest rośliną trującą?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1445,
+      "question": "Jakiej narodowości była malarka Frida Kahlo?",
+      "answer": "Meksykańskiej"
+    },
+    {
+      "id": 1446,
+      "question": "W którym wieku powstało Warszawskie Towarzystwo Cyklistów?",
+      "answer": "W XIX wieku"
+    },
+    {
+      "id": 1447,
+      "question": "Samopsza i płaskurka to odmiany którego zboża?",
+      "answer": "Pszenicy"
+    },
+    {
+      "id": 1448,
+      "question": "Który londyński klub piłkarski jest najstarszy – Fulham czy Chelsea?",
+      "answer": "Fulham"
+    },
+    {
+      "id": 1449,
+      "question": "Tahin to pasta na bazie nasion której rośliny?",
+      "answer": "Sezamu"
+    },
+    {
+      "id": 1450,
+      "question": "Którą literą oznacza się przyspieszenie ziemskie?",
+      "answer": "g"
+    },
+    {
+      "id": 1451,
+      "question": "O człowieku, który jest bezwzględnie oddany komuś, mówi się, że jest wierny jak które zwierzę?",
+      "answer": "Jak pies"
+    },
+    {
+      "id": 1452,
+      "question": "Jak nazywa się najwyższe wzniesienie na Pojezierzu Kaszubskim?",
+      "answer": "Wieżyca"
+    },
+    {
+      "id": 1453,
+      "question": "Jak nazywa się utwór polifoniczny, w którym linia melodyczna jest powtarzana przez różne głosy z opóźnieniem?",
+      "answer": "Kanon"
+    },
+    {
+      "id": 1454,
+      "question": "Kto jako pierwszy przeleciał nad kanałem La Manche w 1909 roku?",
+      "answer": "Louis Blériot (Lui Blerio)"
+    },
+    {
+      "id": 1455,
+      "question": "Który brytyjski polityk został premierem w dniu agresji niemieckiej na Francję?",
+      "answer": "Winston Churchill"
+    },
+    {
+      "id": 1456,
+      "question": "Kto napisał 'Elementy', podręcznik wiedzy matematycznej na przełomie IV i III wieku p.n.e.?",
+      "answer": "Euklides"
+    },
+    {
+      "id": 1457,
+      "question": "Ile koncertów fortepianowych skomponował Fryderyk Chopin?",
+      "answer": "Dwa"
+    },
+    {
+      "id": 1458,
+      "question": "Przedrostek 'kilo-' oznacza dziesięć do której potęgi?",
+      "answer": "Do trzeciej potęgi (1000)"
+    },
+    {
+      "id": 1459,
+      "question": "Kodeks Napoleona z 1804 roku dotyczył prawa cywilnego czy wojskowego?",
+      "answer": "Prawa cywilnego"
+    },
+    {
+      "id": 1460,
+      "question": "Kto jest autorem 'Smugi cienia', 'Jądra ciemności' i 'Tajfunu'?",
+      "answer": "Joseph Conrad"
+    },
+    {
+      "id": 1461,
+      "question": "Jak nazywa się utrwalone na papierze odciski linii papilarnych?",
+      "answer": "Daktylogramy"
+    },
+    {
+      "id": 1462,
+      "question": "Pumpernikiel to pieczywo jasne czy ciemne?",
+      "answer": "Ciemne"
+    },
+    {
+      "id": 1463,
+      "question": "Podaj nazwy przynajmniej dwóch wielościanów foremnych, których ściany są trójkątami.",
+      "answer": "Czworościan foremny i dwudziestościan foremny"
+    },
+    {
+      "id": 1464,
+      "question": "W którym województwie leży Narwiański Park Narodowy?",
+      "answer": "W województwie podlaskim"
+    },
+    {
+      "id": 1465,
+      "question": "Co oznacza wykonanie 'coupletu' w trakcie przedstawienia?",
+      "answer": "Śpiewanie satyrycznej piosenki z morałem"
+    },
+    {
+      "id": 1466,
+      "question": "Według przepisów PZPN mecz piłki nożnej nie może być kontynuowany, jeśli jedna z drużyn ma mniej niż ilu zawodników?",
+      "answer": "Mniej niż 7 zawodników"
+    },
+    {
+      "id": 1467,
+      "question": "Jakie bóstwa wchodzą w skład hinduskiej trójcy (trimurti)?",
+      "answer": "Brahma, Wisznu, Siwa"
+    },
+    {
+      "id": 1468,
+      "question": "Jak nazwano pokazowy proces w Moskwie, w którym skazano m.in. generała Leopolda Okulickiego?",
+      "answer": "Proces Szesnastu"
+    },
+    {
+      "id": 1469,
+      "question": "Co powstaje w reakcji chloru z siarką?",
+      "answer": "Chlorek siarki"
+    },
+    {
+      "id": 1470,
+      "question": "Jak miała na imię córka Konstantego Ildefonsa Gałczyńskiego, autorka książek o ojcu?",
+      "answer": "Kira Gałczyńska"
+    },
+    {
+      "id": 1471,
+      "question": "Ile procent czystego kruszcu zawiera złoto dwudziestoczterokaratowe?",
+      "answer": "100%"
+    },
+    {
+      "id": 1472,
+      "question": "Jakie wydarzenie zniszczyło Kolosa Rodyjskiego?",
+      "answer": "Trzęsienie ziemi"
+    },
+    {
+      "id": 1473,
+      "question": "Którym kolorem oznacza się wyżyny na mapach?",
+      "answer": "Żółtym"
+    },
+    {
+      "id": 1474,
+      "question": "W którym wieku powstało Guggenheim Museum w Nowym Jorku?",
+      "answer": "W XX wieku"
+    },
+    {
+      "id": 1475,
+      "question": "Ile kobiet zostało uwzględnionych w cyklu 'Poczet królów i książąt polskich' Jana Matejki?",
+      "answer": "Cztery"
+    },
+    {
+      "id": 1476,
+      "question": "Co trzyma w prawej ręce Mikołaj Kopernik na warszawskim pomniku?",
+      "answer": "Cyrkiel"
+    },
+    {
+      "id": 1477,
+      "question": "Która dynastia panowała w Polsce, na Litwie, Węgrzech i w Czechach od XIV do XVI wieku?",
+      "answer": "Jagiellonowie"
+    },
+    {
+      "id": 1478,
+      "question": "Które greckie miasto było pierwszą Europejską Stolicą Kultury?",
+      "answer": "Ateny"
+    },
+    {
+      "id": 1479,
+      "question": "Na powierzchni którego metalu może pojawić się śniedź zwana 'patyną'?",
+      "answer": "Na miedzi"
+    },
+    {
+      "id": 1480,
+      "question": "Ile kolorów widnieje na fladze Łotwy?",
+      "answer": "Dwa"
+    },
+    {
+      "id": 1481,
+      "question": "Jak nazywa się nauka o produkcji i pielęgnacji wina?",
+      "answer": "Enologia"
+    },
+    {
+      "id": 1482,
+      "question": "Ile postulatów ogłosił Międzyzakładowy Komitet Strajkowy w sierpniu 1980 roku?",
+      "answer": "21"
+    },
+    {
+      "id": 1483,
+      "question": "Na którym morzu leżą Wyspy Fryzyjskie?",
+      "answer": "Na Morzu Północnym"
+    },
+    {
+      "id": 1484,
+      "question": "Kto dokonuje kanonizacji w Kościele katolickim?",
+      "answer": "Papież"
+    },
+    {
+      "id": 1485,
+      "question": "Kto reżyserował film 'Pewnego razu w... Hollywood', w którym grał Leonardo DiCaprio?",
+      "answer": "Quentin Tarantino"
+    },
+    {
+      "id": 1486,
+      "question": "Jak nazywał się miecz króla Artura?",
+      "answer": "Excalibur"
+    },
+    {
+      "id": 1487,
+      "question": "Na czym siedzi osoba, która w powiedzeniu jest gotowa do wyjazdu i niecierpliwie oczekuje?",
+      "answer": "Na walizkach"
+    },
+    {
+      "id": 1488,
+      "question": "Jaki język urzędowy obowiązuje w Burkina Faso?",
+      "answer": "Francuski"
+    },
+    {
+      "id": 1489,
+      "question": "Jak nazywa się węglowodór o wzorze C6H6?",
+      "answer": "Benzen"
+    },
+    {
+      "id": 1490,
+      "question": "Ile par skrzydeł mają pszczoły?",
+      "answer": "Dwie pary"
+    },
+    {
+      "id": 1491,
+      "question": "Jakie pokrewieństwo łączyło Johna F. Kennedy'ego z Robertem Kennedy?",
+      "answer": "Byli braćmi"
+    },
+    {
+      "id": 1492,
+      "question": "Jak miał na imię pionier europejskiego przemysłu naftowego Łukasiewicz?",
+      "answer": "Ignacy"
+    },
+    {
+      "id": 1493,
+      "question": "Czy na Wyspach Kanaryjskich są czynne wulkany?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1494,
+      "question": "Który polski generał zginął w katastrofie lotniczej w Gibraltarze?",
+      "answer": "Władysław Sikorski"
+    },
+    {
+      "id": 1495,
+      "question": "Jakie dwie piramidy w Teotihuacan w Meksyku noszą nazwy ciał niebieskich?",
+      "answer": "Piramida Słońca i Piramida Księżyca"
+    },
+    {
+      "id": 1496,
+      "question": "Czy śledziona i trzustka są narządami parzystymi czy nieparzystymi?",
+      "answer": "Nieparzystymi"
+    },
+    {
+      "id": 1497,
+      "question": "W której dziedzinie nagrodę Nobla otrzymał Samuel Beckett?",
+      "answer": "W literaturze"
+    },
+    {
+      "id": 1498,
+      "question": "Ile oper napisał Krzysztof Penderecki?",
+      "answer": "Cztery"
+    },
+    {
+      "id": 1499,
+      "question": "Według Charles'a Perraulta, ile przyrodnich sióstr miała dziewczynka nazywana Kopciuszkiem?",
+      "answer": "Dwie"
+    },
+    {
+      "id": 1500,
+      "question": "Ile razy megawat jest większy od wata?",
+      "answer": "Milion razy"
+    },
+    {
+      "id": 1501,
+      "question": "Jakiego koloru upierzenie mają dorosłe osobniki łabędzia niemego?",
+      "answer": "Białe"
+    },
+    {
+      "id": 1502,
+      "question": "Co oznacza angielski termin 'fake news'?",
+      "answer": "Zmyślona lub fałszywa wiadomość"
+    },
+    {
+      "id": 1503,
+      "question": "Półwysep Westerplatte to część którego miasta?",
+      "answer": "Gdańska"
+    },
+    {
+      "id": 1504,
+      "question": "Którym pasażerem był obcy na pokładzie statku Nostromo w polskim tytule filmu Ridleya Scotta?",
+      "answer": "Ósmym"
+    },
+    {
+      "id": 1505,
+      "question": "Zatoka Perska to część którego oceanu?",
+      "answer": "Oceanu Indyjskiego"
+    },
+    {
+      "id": 1506,
+      "question": "W którym z państw oficjalną walutą jest frank szwajcarski?",
+      "answer": "W Liechtensteinie"
+    },
+    {
+      "id": 1507,
+      "question": "Proszę rozwinąć skrót ASP.",
+      "answer": "Akademia Sztuk Pięknych"
+    },
+    {
+      "id": 1508,
+      "question": "Którą kolejną literą polskiego alfabetu jest 'ą'?",
+      "answer": "Drugą"
+    },
+    {
+      "id": 1509,
+      "question": "Częścią którego instrumentu muzycznego jest suwak?",
+      "answer": "Puzonu"
+    },
+    {
+      "id": 1510,
+      "question": "Czy trolejbusy są pojazdami szynowymi?",
+      "answer": "Nie"
+    },
+    {
+      "id": 1511,
+      "question": "Jak nazywa się dojrzała opiekunka Zosi z 'Pana Tadeusza'?",
+      "answer": "Telimena"
+    },
+    {
+      "id": 1512,
+      "question": "Ilu zawodników łącznie z bramkarzem liczy drużyna piłki ręcznej?",
+      "answer": "Siedmiu"
+    },
+    {
+      "id": 1513,
+      "question": "Jak nazywała się grecka bogini zwycięstwa?",
+      "answer": "Nike"
+    },
+    {
+      "id": 1514,
+      "question": "Kto jest autorem obrazów 'Słoneczniki' oraz 'Autoportret z zabandażowanym uchem'?",
+      "answer": "Vincent van Gogh"
+    },
+    {
+      "id": 1515,
+      "question": "Jak nazywa się święte miejsce judaizmu, mur w Jerozolimie, pod którym modlą się Żydzi?",
+      "answer": "Ściana Płaczu"
+    },
+    {
+      "id": 1516,
+      "question": "Czy Mars jest większy, czy mniejszy od Ziemi?",
+      "answer": "Mars jest mniejszy od Ziemi"
+    },
+    {
+      "id": 1517,
+      "question": "Żoną którego polskiego króla była Barbara Radziwiłłówna?",
+      "answer": "Zygmunta II Augusta"
+    },
+    {
+      "id": 1518,
+      "question": "W którym europejskim państwie znajduje się wąwóz Homole?",
+      "answer": "W Polsce"
+    },
+    {
+      "id": 1519,
+      "question": "Irygacja to nawadnianie czy osuszanie gleby?",
+      "answer": "Nawadnianie"
+    },
+    {
+      "id": 1520,
+      "question": "Czy każda liczba całkowita jest liczbą naturalną?",
+      "answer": "Nie"
+    },
+    {
+      "id": 1521,
+      "question": "W wyniku rozpadu którego państwa powstała Macedonia Północna?",
+      "answer": "Jugosławii"
+    },
+    {
+      "id": 1522,
+      "question": "Ile konkurencji wchodzi w skład skoków lekkoatletycznych?",
+      "answer": "Cztery (wzwyż, w dal, trójskok, o tyczce)"
+    },
+    {
+      "id": 1523,
+      "question": "Samica którego zwierzęcia jest matką muła?",
+      "answer": "Konia"
+    },
+    {
+      "id": 1524,
+      "question": "Który gruczoł dokrewny człowieka przypomina kształtem motyla?",
+      "answer": "Tarczyca"
+    },
+    {
+      "id": 1525,
+      "question": "Z iloma państwami Tajwan ma granicę lądową?",
+      "answer": "Z żadnym, ponieważ jest wyspą"
+    },
+    {
+      "id": 1526,
+      "question": "Który polski aktor został członkiem zespołu teatru Comédie-Française, a w 2005 roku otrzymał francuski order Legii Honorowej?",
+      "answer": "Andrzej Seweryn"
+    },
+    {
+      "id": 1527,
+      "question": "Czy wyrazy 'ustąpiwszy' i 'zapomniawszy' to przysłówki czy imiesłowy?",
+      "answer": "Imiesłowy"
+    },
+    {
+      "id": 1528,
+      "question": "Wirtuozem którego instrumentu jest David Garrett, niemiecki muzyk światowej sławy?",
+      "answer": "Skrzypiec"
+    },
+    {
+      "id": 1529,
+      "question": "Oprócz papieskiej korony, które dwa przedmioty widnieją w godle Watykanu?",
+      "answer": "Dwa klucze"
+    },
+    {
+      "id": 1530,
+      "question": "Na terenie którego państwa leży Park Narodowy Serengeti?",
+      "answer": "Tanzanii"
+    },
+    {
+      "id": 1531,
+      "question": "W której dziedzinie Theodore Roosevelt otrzymał Pokojową Nagrodę Nobla?",
+      "answer": "Za wypracowanie pokoju po wojnie rosyjsko-japońskiej"
+    },
+    {
+      "id": 1532,
+      "question": "Ile razy wzrośnie energia kinetyczna ciała, jeśli jego prędkość wzrośnie trzykrotnie?",
+      "answer": "Dziewięć razy"
+    },
+    {
+      "id": 1533,
+      "question": "Czy kolibry potrafią chodzić?",
+      "answer": "Nie"
+    },
+    {
+      "id": 1534,
+      "question": "Co oznacza polskie słowo 'kolacja' w języku francuskim?",
+      "answer": "Śniadanie"
+    },
+    {
+      "id": 1535,
+      "question": "Jak nazywa się główna bohaterka dramatu 'Dom lalki' Ibsena?",
+      "answer": "Nora"
+    },
+    {
+      "id": 1536,
+      "question": "W którym wieku po raz pierwszy użyto okrętu podwodnego do celów bojowych?",
+      "answer": "W XVIII wieku"
+    },
+    {
+      "id": 1537,
+      "question": "Czy poprawna jest polska pisownia słowa 'kołodziej' z literą 'k' na początku i 'd' na końcu?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1538,
+      "question": "Jak nazywa się wartość bezwzględna liczby, słowo pochodzi z łaciny?",
+      "answer": "Moduł"
+    },
+    {
+      "id": 1539,
+      "question": "Czy deszcz rzęsisty to wnuk czy dziadek?",
+      "answer": "Wnuk"
+    },
+    {
+      "id": 1540,
+      "question": "Jak nazywa się równoleżnik, który przechodzi przez punkty o szerokości 66°33'?",
+      "answer": "Koło podbiegunowe"
+    },
+    {
+      "id": 1541,
+      "question": "Który król Polski prowadził w latach 1454-1466 wojnę z Krzyżakami?",
+      "answer": "Kazimierz Jagiellończyk"
+    },
+    {
+      "id": 1542,
+      "question": "Jak nazywa się najbardziej rozpowszechniony gatunek jesionu w Polsce?",
+      "answer": "Jesion wyniosły"
+    },
+    {
+      "id": 1543,
+      "question": "Ile razy masa Księżyca jest mniejsza niż masa Ziemi?",
+      "answer": "Około 81 razy"
+    },
+    {
+      "id": 1544,
+      "question": "Czy gliceryna jest alkoholem, tłuszczem, czy białkiem?",
+      "answer": "Alkoholem"
+    },
+    {
+      "id": 1545,
+      "question": "Jak nazywała się polska pianistka i kompozytorka, której pieśni były znane w Europie na przełomie XVIII i XIX wieku?",
+      "answer": "Maria Szymanowska"
+    },
+    {
+      "id": 1546,
+      "question": "Jak nazywa się papierowa opaska na paczce banknotów świadcząca o tym, że zostały sprawdzone i policzone?",
+      "answer": "Bandorola"
+    },
+    {
+      "id": 1547,
+      "question": "Kiedy obchodzimy Narodowy Dzień Zwycięskiego Powstania Wielkopolskiego?",
+      "answer": "27 grudnia"
+    },
+    {
+      "id": 1548,
+      "question": "Do której cieśniny uchodzą rzeki Sekwana i Somma?",
+      "answer": "Do Cieśniny La Manche"
+    },
+    {
+      "id": 1549,
+      "question": "Jak nazywa się międzynarodowa organizacja policji kryminalnej założona w Wiedniu w 1923 roku?",
+      "answer": "Interpol"
+    },
+    {
+      "id": 1550,
+      "question": "Który rzymski polityk nosił przydomek Cenzor?",
+      "answer": "Katon Starszy"
+    },
+    {
+      "id": 1551,
+      "question": "Ile dni miał każdy z 12 miesięcy według francuskiego kalendarza rewolucyjnego?",
+      "answer": "30 dni"
+    },
+    {
+      "id": 1552,
+      "question": "W którym roku 17 państw afrykańskich uzyskało niepodległość, co nazwano 'Rokiem Afryki'?",
+      "answer": "1960"
+    },
+    {
+      "id": 1553,
+      "question": "Jak na imię miał polski rzeźbiarz Dunikowski?",
+      "answer": "Ksawery"
+    },
+    {
+      "id": 1554,
+      "question": "Kto wyreżyserował tzw. Trylogię dolarową, czyli serię spaghetti westernów z połowy XX wieku?",
+      "answer": "Sergio Leone"
+    },
+    {
+      "id": 1555,
+      "question": "Który z angielskich klubów piłkarskich prowadził przez ponad ćwierć wieku Sir Alex Ferguson?",
+      "answer": "Manchester United"
+    },
+    {
+      "id": 1556,
+      "question": "Do której gromady zwierząt należą grzebacze?",
+      "answer": "Owady"
+    },
+    {
+      "id": 1557,
+      "question": "Gałązka którego drzewa znajduje się na monetach jedno- i pięciocentowych emitowanych w Niemczech?",
+      "answer": "Dębu"
+    },
+    {
+      "id": 1558,
+      "question": "Jak na imię miał ukochany Aidy z opery Verdiego?",
+      "answer": "Radames"
+    },
+    {
+      "id": 1559,
+      "question": "Jeżeli jedna z przyprostokątnych w trójkącie prostokątnym ma długość 3 cm, a druga 4 cm, ile centymetrów mierzy przeciwprostokątna?",
+      "answer": "5 cm"
+    },
+    {
+      "id": 1560,
+      "question": "Jak nazywa się żydowskie święto znane jako Dzień Pojednania?",
+      "answer": "Jom Kipur"
+    },
+    {
+      "id": 1561,
+      "question": "Jak nazywa się majątek państwa Kunickich z powieści „Kariera Nikodema Dyzmy”?",
+      "answer": "Kozie Rowy"
+    },
+    {
+      "id": 1562,
+      "question": "Kto był twórcą krakowskiego teatru małych form Cricot 2?",
+      "answer": "Tadeusz Kantor"
+    },
+    {
+      "id": 1563,
+      "question": "Jaki kształt ma figura geometryczna, która znajduje się na banknocie 10-złotowym i pomaga niewidomym rozpoznać nominał?",
+      "answer": "Kwadrat"
+    },
+    {
+      "id": 1564,
+      "question": "Które koczownicze plemię doszło do największej potęgi za panowania Attyli?",
+      "answer": "Hunowie"
+    },
+    {
+      "id": 1565,
+      "question": "Czy w skład tzw. sztuk wyzwolonych wchodziły medycyna i prawo?",
+      "answer": "Nie"
+    },
+    {
+      "id": 1566,
+      "question": "Ile państw na świecie liczy ponad miliard mieszkańców?",
+      "answer": "Dwa (Chiny i Indie)"
+    },
+    {
+      "id": 1567,
+      "question": "Jakiej narodowości był poeta Taras Szewczenko?",
+      "answer": "Ukraińskiej"
+    },
+    {
+      "id": 1568,
+      "question": "Jakiego koloru chryzantemy trzyma dziewczynka na obrazie Olgi Boznańskiej „Dziewczynka z chryzantemami”?",
+      "answer": "Białego"
+    },
+    {
+      "id": 1569,
+      "question": "Czy Morze Kaspijskie ma wody słodkie czy słone?",
+      "answer": "Słone"
+    },
+    {
+      "id": 1570,
+      "question": "Którego europejskiego kraju prezydentem był Alain Berset?",
+      "answer": "Szwajcarii"
+    },
+    {
+      "id": 1571,
+      "question": "W polskim przysłowiu Mahomet przyszedł do góry, czy góra do Mahometa?",
+      "answer": "Mahomet przyszedł do góry"
+    },
+    {
+      "id": 1572,
+      "question": "Do którego rodzaju literackiego należą komedie?",
+      "answer": "Do dramatu"
+    },
+    {
+      "id": 1573,
+      "question": "W jakim środowisku naturalnym żyją ustce morski, rzeki czy tropikalne lasy?",
+      "answer": "W morzach"
+    },
+    {
+      "id": 1574,
+      "question": "Ile wyrazów ma powiedzenie „Do siego roku”?",
+      "answer": "Trzy"
+    },
+    {
+      "id": 1575,
+      "question": "Jak z języka niemieckiego nazywamy narożnik domu?",
+      "answer": "Winkel"
+    },
+    {
+      "id": 1576,
+      "question": "Częścią których gór są Dolomity?",
+      "answer": "Alp"
+    },
+    {
+      "id": 1577,
+      "question": "Jakiego wynalazku dotyczył spór prawny między Nikolasem Teslą a Guglielmo Marconim?",
+      "answer": "Radia"
+    },
+    {
+      "id": 1578,
+      "question": "Jak nazywał się jacht, na którym Krzysztof Baranowski odbył podróż dookoła świata?",
+      "answer": "Polonez"
+    },
+    {
+      "id": 1579,
+      "question": "Z którym angielskim szeryfem walczył Robin Hood?",
+      "answer": "Z szeryfem Nottingham"
+    },
+    {
+      "id": 1580,
+      "question": "Temperatura wrzenia siarkowodoru jest dodatnia czy ujemna?",
+      "answer": "Ujemna"
+    },
+    {
+      "id": 1581,
+      "question": "Jak nazywa się największa wyspa Norwegii?",
+      "answer": "Spitsbergen"
+    },
+    {
+      "id": 1582,
+      "question": "Który amerykański dziennik używa motta „Democracy dies in darkness”?",
+      "answer": "The Washington Post"
+    },
+    {
+      "id": 1583,
+      "question": "Z którą rocznicą urodzin Kopernika związane są obchody Roku Kopernikańskiego w 2023 roku?",
+      "answer": "550"
+    },
+    {
+      "id": 1584,
+      "question": "Do gry w lacrosse używa się kijów czy rakiet?",
+      "answer": "Kijów"
+    },
+    {
+      "id": 1585,
+      "question": "W którym wieku miała miejsce we Francji rewolucja lipcowa, znana jako „Trzy dni chwały”?",
+      "answer": "W XIX wieku"
+    },
+    {
+      "id": 1586,
+      "question": "Do której kasty w Indiach należy bramin?",
+      "answer": "Do najwyższej"
+    },
+    {
+      "id": 1587,
+      "question": "Jak nazywa się proces okresowego zrzucania naskórka u płazów i gadów?",
+      "answer": "Linienie"
+    },
+    {
+      "id": 1588,
+      "question": "Co zapalało się na panewce dawnej broni palnej przed oddaniem strzału?",
+      "answer": "Proch"
+    },
+    {
+      "id": 1589,
+      "question": "Czy słonie potrafią pływać?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1590,
+      "question": "W którym filmie Janusza Majewskiego wystąpiło „Złoto dezerterów”?",
+      "answer": "Złoto dezerterów"
+    },
+    {
+      "id": 1591,
+      "question": "Który instrument perkusyjny ma taką samą nazwę jak duży garnek?",
+      "answer": "Kocioł"
+    },
+    {
+      "id": 1592,
+      "question": "Jaki gaz jest używany do produkcji wody sodowej?",
+      "answer": "Dwutlenek węgla"
+    },
+    {
+      "id": 1593,
+      "question": "Jak nazywa się najbliższa Słońca gwiazda?",
+      "answer": "Proxima Centauri"
+    },
+    {
+      "id": 1594,
+      "question": "Którym państwem władał Alfons XII z dynastii Burbonów?",
+      "answer": "Hiszpanią"
+    },
+    {
+      "id": 1595,
+      "question": "Ile rund składa się walka w zapasach?",
+      "answer": "Z dwóch rund"
+    },
+    {
+      "id": 1596,
+      "question": "Jaki stopień wojskowy miał Michał Wołodyjowski w ostatniej części Trylogii?",
+      "answer": "Pułkownik"
+    },
+    {
+      "id": 1597,
+      "question": "Klaus Mann i Thomas Mann byli w jakiej relacji rodzinnej?",
+      "answer": "Byli braćmi"
+    },
+    {
+      "id": 1598,
+      "question": "W której pieśni z XIX wieku padają słowa „Żyjesz swobody, Polsko, żyj”?",
+      "answer": "Warszawianka"
+    },
+    {
+      "id": 1599,
+      "question": "Na której greckiej wyspie rozgrywa się akcja powieści „Grek Zorba”?",
+      "answer": "Na Krecie"
+    },
+    {
+      "id": 1600,
+      "question": "Ile gwiazd widnieje na fladze Australii?",
+      "answer": "Sześć"
+    },
+    {
+      "id": 1601,
+      "question": "Czy istnieje zawód dojarza węży?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1602,
+      "question": "Jak nazywamy czterocyfrowy kod wpisywany w bankomacie przy wypłacaniu pieniędzy?",
+      "answer": "PIN"
+    },
+    {
+      "id": 1603,
+      "question": "Który kompozytor urodził się w Żelazowej Woli?",
+      "answer": "Fryderyk Chopin"
+    },
+    {
+      "id": 1604,
+      "question": "Jak nazywa się książka zawierająca wyjaśnienia snów?",
+      "answer": "Sennik"
+    },
+    {
+      "id": 1605,
+      "question": "Czy rtęć w szklanym naczyniu ma menisk wypukły czy wklęsły?",
+      "answer": "Wklęsły"
+    },
+    {
+      "id": 1606,
+      "question": "Jakiej narodowości była Astrid Lindgren, autorka książki „Dzieci z Bullerbyn”?",
+      "answer": "Szwedzkiej"
+    },
+    {
+      "id": 1607,
+      "question": "Czym jest szpiczak? Nowotworem której tkanki?",
+      "answer": "Szpiczak jest nowotworem tkanki plazmocytarnej"
+    },
+    {
+      "id": 1608,
+      "question": "Pallas i Partenos to przydomki której bogini w mitologii greckiej?",
+      "answer": "Ateny"
+    },
+    {
+      "id": 1609,
+      "question": "Który składnik powietrza przekształca się w ozon pod wpływem wyładowań atmosferycznych?",
+      "answer": "Tlen"
+    },
+    {
+      "id": 1610,
+      "question": "Przez jakie „h” piszemy słowo „wataha”?",
+      "answer": "Przez „h”"
+    },
+    {
+      "id": 1611,
+      "question": "Ile zwrotek ma według ustawy hymn Polski?",
+      "answer": "Cztery"
+    },
+    {
+      "id": 1612,
+      "question": "W którym roku decyzją Kongresu Wiedeńskiego utworzono Królestwo Polskie?",
+      "answer": "W 1815 roku"
+    },
+    {
+      "id": 1613,
+      "question": "Czego pełna była rzeka, o której śnił kotek w wierszu Tuwima?",
+      "answer": "Mleka"
+    },
+    {
+      "id": 1614,
+      "question": "Czy Hermann Göring był sądzony w procesie norymberskim?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1615,
+      "question": "Która liczba oddziela wartości dodatnie od ujemnych?",
+      "answer": "Zero"
+    },
+    {
+      "id": 1616,
+      "question": "Która dyscyplina jest nazywana królową sportu?",
+      "answer": "Lekkoatletyka"
+    },
+    {
+      "id": 1617,
+      "question": "Co znaczy słowo „insurekcja”?",
+      "answer": "Powstanie zbrojne"
+    },
+    {
+      "id": 1618,
+      "question": "Czy gazon to jest rodzaj wału czy trawnika?",
+      "answer": "Trawnika"
+    },
+    {
+      "id": 1619,
+      "question": "W którym mieście pochowany jest święty Wojciech?",
+      "answer": "W Gnieźnie"
+    },
+    {
+      "id": 1620,
+      "question": "W której dziedzinie sztuki występuje prima balerina?",
+      "answer": "W balecie"
+    },
+    {
+      "id": 1621,
+      "question": "Dijada to zespół ilu elementów?",
+      "answer": "Dwóch"
+    },
+    {
+      "id": 1622,
+      "question": "Na którym półwyspie leży Jastarnia?",
+      "answer": "Na Półwyspie Helskim"
+    },
+    {
+      "id": 1623,
+      "question": "Kto był przywódcą największego powstania niewolników w starożytnym Rzymie w I wieku p.n.e.?",
+      "answer": "Spartakus"
+    },
+    {
+      "id": 1624,
+      "question": "Do którego programu radiowego należy audycja „Sygnały dnia”?",
+      "answer": "Do Programu Pierwszego Polskiego Radia"
+    },
+    {
+      "id": 1625,
+      "question": "Czy wzrost siły nabywczej pieniądza to aprecjacja czy deprecjacja?",
+      "answer": "Aprecjacja"
+    },
+    {
+      "id": 1626,
+      "question": "W którym języku Adam Mickiewicz pisał dramaty „Jakub Jasiński” i „Konfederaci barscy”?",
+      "answer": "W języku francuskim"
+    },
+    {
+      "id": 1627,
+      "question": "Czy tłuszcze rozpuszczają się w benzynie?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1628,
+      "question": "Jak miał na imię słynny włoski tenor Pavarotti?",
+      "answer": "Luciano"
+    },
+    {
+      "id": 1629,
+      "question": "Jaki przydomek nosił filmowy policjant Harry Callahan grany przez Clinta Eastwooda?",
+      "answer": "Brudny Harry"
+    },
+    {
+      "id": 1630,
+      "question": "W której reprezentacji narodowej grał Franz Beckenbauer?",
+      "answer": "W reprezentacji RFN (Republiki Federalnej Niemiec)"
+    },
+    {
+      "id": 1631,
+      "question": "Jak nazywał się angielski korsarz i admirał, który opłynął Ziemię w latach 1577-1580?",
+      "answer": "Sir Francis Drake"
+    },
+    {
+      "id": 1632,
+      "question": "Jak nazywa się wodny pająk, który buduje pod wodą pomieszczenie w kształcie dzwonu wypełnionego powietrzem?",
+      "answer": "Topik"
+    },
+    {
+      "id": 1633,
+      "question": "Która ballada Wyspiańskiego została skomponowana i wykonywana przez Marka Grechutę?",
+      "answer": "Szczęście"
+    },
+    {
+      "id": 1634,
+      "question": "Kto został wybrany najlepszym sportowcem Polski 2022 roku w plebiscycie „Przeglądu Sportowego”?",
+      "answer": "Iga Świątek"
+    },
+    {
+      "id": 1635,
+      "question": "Z jakiej gry wywodzą się figury występujące w „Alicji po drugiej stronie lustra”?",
+      "answer": "Z szachów"
+    },
+    {
+      "id": 1636,
+      "question": "Co jest większe: nasz Układ Słoneczny czy Droga Mleczna?",
+      "answer": "Droga Mleczna"
+    },
+    {
+      "id": 1637,
+      "question": "Kto zaprojektował pierwszy stalowy most w Warszawie w XIX wieku?",
+      "answer": "Stanisław Kierbedź"
+    },
+    {
+      "id": 1638,
+      "question": "W której części ciała znajduje się narząd Cortiego?",
+      "answer": "W uchu"
+    },
+    {
+      "id": 1639,
+      "question": "W którym roku wybuchła rewolucja goździków w Portugalii?",
+      "answer": "W 1974 roku"
+    },
+    {
+      "id": 1640,
+      "question": "Czy długość kroku kangura olbrzymiego może przekroczyć ludzki rekord w skoku w dal?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1641,
+      "question": "Siedlce czy Tarnów – które z tych miast jest stolicą województwa?",
+      "answer": "Siedlce"
+    },
+    {
+      "id": 1642,
+      "question": "Gwiazda wieczorna i gwiazda poranna to inne nazwy której planety?",
+      "answer": "Wenus"
+    },
+    {
+      "id": 1643,
+      "question": "Jak miał na imię książę Radziwiłł, którego próbował porwać Kmicic w 'Potopie'?",
+      "answer": "Bogusłase"
+    },
+    {
+      "id": 1644,
+      "question": "Na lutni gra lutnik czy lutnista?",
+      "answer": "Lutnista"
+    },
+    {
+      "id": 1645,
+      "question": "Jaki kolor habitów noszą bracia z zakonu kamedułów?",
+      "answer": "Biały"
+    },
+    {
+      "id": 1646,
+      "question": "Kto był kompozytorem utworu „Poranek” ze suity „Peer Gynt”?",
+      "answer": "Edward Grieg"
+    },
+    {
+      "id": 1647,
+      "question": "Pod którą budowlą w Paryżu znajduje się grób nieznanego żołnierza?",
+      "answer": "Pod Łukiem Triumfalnym"
+    },
+    {
+      "id": 1648,
+      "question": "W którym mieście urodził się Henryk Wieniawski?",
+      "answer": "W Lublinie"
+    },
+    {
+      "id": 1649,
+      "question": "Z którego państwa pochodził laureat literackiej Nagrody Nobla Kenzaburo Oe?",
+      "answer": "Z Japonii"
+    },
+    {
+      "id": 1650,
+      "question": "Jaką skałę metamorficzną tworzy granit po przeobrażeniu?",
+      "answer": "Gnejs"
+    },
+    {
+      "id": 1651,
+      "question": "Które trzy państwa tworzą układ NAFTA?",
+      "answer": "Stany Zjednoczone, Kanada i Meksyk"
+    },
+    {
+      "id": 1652,
+      "question": "Jak nazywa się bohaterka książek Agathy Christie – starsza pani rozwiązująca zagadki kryminalne?",
+      "answer": "Panna Marple"
+    },
+    {
+      "id": 1653,
+      "question": "Czy liwr to dawna srebrna moneta włoska?",
+      "answer": "Nie, to dawna srebrna moneta francuska"
+    },
+    {
+      "id": 1654,
+      "question": "W którym województwie leży miasto Kartuzy?",
+      "answer": "W województwie pomorskim"
+    },
+    {
+      "id": 1655,
+      "question": "Komu przypisuje się słowa „Ty też, Brutusie”?",
+      "answer": "Juliuszowi Cezarowi"
+    },
+    {
+      "id": 1656,
+      "question": "Kto zostaje prezydentem w przypadku śmierci prezydenta Stanów Zjednoczonych?",
+      "answer": "Wiceprezydent"
+    },
+    {
+      "id": 1657,
+      "question": "Który film Joanny Kos-Krauze i Krzysztofa Krauzego oparty jest na życiu romskiej poetki?",
+      "answer": "Papusza"
+    },
+    {
+      "id": 1658,
+      "question": "Czy Karol Kurpiński komponował opery?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1659,
+      "question": "W którym wieku Budapeszt połączył się w jedno miasto?",
+      "answer": "W XIX wieku (1873 rok)"
+    },
+    {
+      "id": 1660,
+      "question": "Z której powieści Stefana Żeromskiego pochodzi cytat: „Lekarz dzisiejszy to lekarz ludzi bogatych”?",
+      "answer": "Z „Ludzi bezdomnych.”"
+    },
+    {
+      "id": 1661,
+      "question": "Który europejski malarz epoki baroku jest autorem obrazu „Trzy Gracje”?",
+      "answer": "Peter Paul Rubens"
+    },
+    {
+      "id": 1662,
+      "question": "W których górach wznosi się szczyt Brocken, gdzie według legend odbywają się sabaty czarownic?",
+      "answer": "W górach Harz"
+    },
+    {
+      "id": 1663,
+      "question": "Kto do 1943 roku był dowódcą niemieckiej marynarki wojennej?",
+      "answer": "Erich Raeder"
+    },
+    {
+      "id": 1664,
+      "question": "Do którego państwa należy wyspa Nowa Irlandia?",
+      "answer": "Do Papui-Nowej Gwinei"
+    },
+    {
+      "id": 1665,
+      "question": "Dla którego polskiego rodu wybudowano zamek Krzyżtopór?",
+      "answer": "Dla Ossolińskich"
+    },
+    {
+      "id": 1666,
+      "question": "Jak nazywają się japońskie bóstwa religii shinto?",
+      "answer": "Kami"
+    },
+    {
+      "id": 1667,
+      "question": "Gwiazda wieczorna i gwiazda poranna to inne nazwy której planety?",
+      "answer": "Wenus"
+    },
+    {
+      "id": 1668,
+      "question": "Jak miał na imię książę Radziwiłł, którego próbował porwać Kmicic w „Potopie”?",
+      "answer": "Bogusław"
+    },
+    {
+      "id": 1669,
+      "question": "Na jakim instrumencie gra lutnik?",
+      "answer": "Na skrzypcach (instrumentach strunowych)"
+    },
+    {
+      "id": 1670,
+      "question": "Jaki kolor habitów noszą bracia z zakonu kamedułów?",
+      "answer": "Biały"
+    },
+    {
+      "id": 1671,
+      "question": "Kto był kompozytorem utworu „Poranek” ze suity „Peer Gynt”?",
+      "answer": "Edward Grieg"
+    },
+    {
+      "id": 1672,
+      "question": "Pod którą budowlą w Paryżu znajduje się grób nieznanego żołnierza?",
+      "answer": "Pod Łukiem Triumfalnym"
+    },
+    {
+      "id": 1673,
+      "question": "W którym mieście urodził się Henryk Wieniawski?",
+      "answer": "W Lublinie"
+    },
+    {
+      "id": 1674,
+      "question": "Z którego państwa pochodził laureat literackiej Nagrody Nobla Kenzaburo Oe?",
+      "answer": "Z Japonii"
+    },
+    {
+      "id": 1675,
+      "question": "Jaką skałę metamorficzną tworzy granit po przeobrażeniu?",
+      "answer": "Gnejs"
+    },
+    {
+      "id": 1676,
+      "question": "Które trzy państwa tworzą układ NAFTA?",
+      "answer": "Stany Zjednoczone, Kanada, Meksyk"
+    },
+    {
+      "id": 1677,
+      "question": "Jak nazywa się bohaterka książek Agathy Christie – starsza pani rozwiązująca zagadki kryminalne?",
+      "answer": "Panna Marple"
+    },
+    {
+      "id": 1678,
+      "question": "Czy liwr to dawna srebrna moneta włoska?",
+      "answer": "Nie, to dawna srebrna moneta francuska"
+    },
+    {
+      "id": 1682,
+      "question": "Która planeta ma więcej księżyców – Wenus czy Ziemia?",
+      "answer": "Ziemia"
+    },
+    {
+      "id": 1683,
+      "question": "Jak miał na imię pisarz i krytyk Herling-Grudziński?",
+      "answer": "Gustaw"
+    },
+    {
+      "id": 1684,
+      "question": "W jakich jednostkach mierzymy energię w układzie SI?",
+      "answer": "W dżulach"
+    },
+    {
+      "id": 1685,
+      "question": "Które polskie miasto uwieczniał na obrazach Bernardo Bellotto, zwany Canaletto?",
+      "answer": "Warszawa"
+    },
+    {
+      "id": 1686,
+      "question": "Jak nazywał się książę siedmiogrodzki, który w XVI wieku został królem Polski?",
+      "answer": "Stefan Batory"
+    },
+    {
+      "id": 1687,
+      "question": "Roślina oleista rodem z Afryki i skarbiec w bajce o Ali Babie mają tę samą nazwę. Jaką?",
+      "answer": "Sezam"
+    },
+    {
+      "id": 1688,
+      "question": "Czy w Australii środkiem płatniczym jest funt brytyjski?",
+      "answer": "Nie"
+    },
+    {
+      "id": 1689,
+      "question": "Jak nazywa się pionek w warcabach, który może bić inne pionki we wszystkich kierunkach?",
+      "answer": "Dama"
+    },
+    {
+      "id": 1690,
+      "question": "Tlenek wodoru to inna nazwa którego związku chemicznego?",
+      "answer": "Wody"
+    },
+    {
+      "id": 1691,
+      "question": "Bohaterami której powieści są kapitan Flint i John Silver?",
+      "answer": "Wyspa skarbów"
+    },
+    {
+      "id": 1692,
+      "question": "Czy diplodok to gad czy ptak?",
+      "answer": "Gad"
+    },
+    {
+      "id": 1693,
+      "question": "Kto namalował obraz „Maja naga”?",
+      "answer": "Francisco Goya"
+    },
+    {
+      "id": 1694,
+      "question": "Kto namalował obraz „Maja ubrana”?",
+      "answer": "Francisco Goya"
+    },
+    {
+      "id": 1695,
+      "question": "Rzeka Ina to dopływ Wisły czy Odry?",
+      "answer": "Odry"
+    },
+    {
+      "id": 1696,
+      "question": "Według Biblii, które morze rozstąpiło się według jednej z ksiąg Starego Testamentu?",
+      "answer": "Morze Czerwone"
+    },
+    {
+      "id": 1697,
+      "question": "Proszę wymienić nazwy trzech statków Krzysztofa Kolumba z jego pierwszej wyprawy.",
+      "answer": "Santa Maria, Pinta, Niña"
+    },
+    {
+      "id": 1698,
+      "question": "W którym mieście urodził się twórca skali temperatury Gabriel Fahrenheit?",
+      "answer": "W Gdańsku"
+    },
+    {
+      "id": 1699,
+      "question": "Przy której ulicy w piosence „U cioci na imieninach” zebrała się ferajna?",
+      "answer": "Przy ulicy Gnojnej"
+    },
+    {
+      "id": 1700,
+      "question": "Wieniec z liści których drzew zdobi krzyż harcerski?",
+      "answer": "Dębu i wawrzynu"
+    },
+    {
+      "id": 1701,
+      "question": "Ile kabli ma mila morska?",
+      "answer": "10 kabli"
+    },
+    {
+      "id": 1702,
+      "question": "Jak nazywa się przezroczysta zewnętrzna warstwa pokrywająca gałkę oczną?",
+      "answer": "Rogówka"
+    },
+    {
+      "id": 1703,
+      "question": "Kto spotkał siedmiu krasnoludków – Królewna Śnieżka czy Śpiąca Królewna?",
+      "answer": "Królewna Śnieżka"
+    },
+    {
+      "id": 1704,
+      "question": "Która witamina przeważa w składzie naturalnego masła – A, B, czy C?",
+      "answer": "Witamina A"
+    },
+    {
+      "id": 1705,
+      "question": "W którym państwie narodziła się muzyka fado?",
+      "answer": "W Portugalii"
+    },
+    {
+      "id": 1706,
+      "question": "Jakim słowem pochodzącym z angielskiego nazywamy grupy dziewcząt prezentujących w przerwach meczów układy taneczne?",
+      "answer": "Cheerleaderki"
+    },
+    {
+      "id": 1707,
+      "question": "Jak miał na imię Thor Heyerdahl, norweski podróżnik i geograf?",
+      "answer": "Thor"
+    },
+    {
+      "id": 1708,
+      "question": "Cholewa to część czego?",
+      "answer": "Buta"
+    },
+    {
+      "id": 1709,
+      "question": "W jakim kolorze jest flaga oznaczająca poddanie się albo chęć rozpoczęcia rokowań?",
+      "answer": "W białym"
+    },
+    {
+      "id": 1710,
+      "question": "Gastroenterologia zajmuje się chorobami i leczeniem którego układu?",
+      "answer": "Pokarmowego"
+    },
+    {
+      "id": 1711,
+      "question": "Kształt której figury geometrycznej ma kort tenisowy?",
+      "answer": "Prostokąta"
+    },
+    {
+      "id": 1712,
+      "question": "Czy synoptyk jest specjalistą od budowy przyrządów optycznych?",
+      "answer": "Nie"
+    },
+    {
+      "id": 1713,
+      "question": "W którym mieście Hipolit Cegielski założył fabrykę narzędzi i maszyn rolniczych?",
+      "answer": "W Poznaniu"
+    },
+    {
+      "id": 1714,
+      "question": "Jak w dawnej Polsce nazywał się urzędnik zarządzający piwnicami panującego?",
+      "answer": "Podczaszy"
+    },
+    {
+      "id": 1715,
+      "question": "Czy rośliny mają DNA?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1716,
+      "question": "Co najmniej ile podpisów trzeba zebrać, żeby zarejestrować w Państwowej Komisji Wyborczej kandydata na prezydenta?",
+      "answer": "100 tysięcy"
+    },
+    {
+      "id": 1717,
+      "question": "Jak nazywa się obywatelka Kazachstanu?",
+      "answer": "Kazaszka"
+    },
+    {
+      "id": 1718,
+      "question": "Który wieszcz ma pomnik na krakowskim rynku głównym?",
+      "answer": "Adam Mickiewicz"
+    },
+    {
+      "id": 1719,
+      "question": "Która liczba jest większa – kwadrylion czy kwintylion?",
+      "answer": "Kwintylion"
+    },
+    {
+      "id": 1720,
+      "question": "Wizerunek którego króla widnieje na banknocie 20-złotowym?",
+      "answer": "Bolesław Chrobry"
+    },
+    {
+      "id": 1721,
+      "question": "Który bóg w greckiej mitologii ukrywał się pod postacią łabędzia?",
+      "answer": "Zeus"
+    },
+    {
+      "id": 1722,
+      "question": "Z jakimi zwierzętami wiąże się pierwszy człon wyrazów złożonych „ichtio-”?",
+      "answer": "Z rybami"
+    },
+    {
+      "id": 1723,
+      "question": "Który zwrotnik przechodzi przez Australię?",
+      "answer": "Zwrotnik Koziorożca"
+    },
+    {
+      "id": 1724,
+      "question": "W czasie której wojny rozpoczęto budowę linii Hindenburga?",
+      "answer": "Podczas I wojny światowej"
+    },
+    {
+      "id": 1725,
+      "question": "Prawo Archimedesa dotyczy ciał zanurzonych w cieczy, ale co decyduje o unoszeniu się korka na powierzchni wody?",
+      "answer": "Prawo Archimedesa"
+    },
+    {
+      "id": 1726,
+      "question": "W którym filmie Charlie Chaplin zjada ugotowany but?",
+      "answer": "W filmie „Gorączka złota”"
+    },
+    {
+      "id": 1727,
+      "question": "Jak nazywa się gigant, najbliższy przyjaciel Asteriksa?",
+      "answer": "Obeliks"
+    },
+    {
+      "id": 1728,
+      "question": "Czy owoc trufli rośnie pod ziemią?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1729,
+      "question": "Który król jako pierwszy był koronowany w Kolegiacie św. Jana Chrzciciela w Warszawie?",
+      "answer": "Stanisław Leszczyński"
+    },
+    {
+      "id": 1730,
+      "question": "Ile otworów ma instrument muzyczny o nazwie ocarina?",
+      "answer": "Ocarina ma kilka otworów, od 4 do 12"
+    },
+    {
+      "id": 1731,
+      "question": "Który bohater „Ogniem i mieczem” miał zwyczaj mówić: „słuchać chadco”?",
+      "answer": "Longinus Podbipięta"
+    },
+    {
+      "id": 1732,
+      "question": "Jak nazywają się góry we wschodniej Francji, oddzielone od gór Jura bramą Burgundii?",
+      "answer": "Alpy"
+    },
+    {
+      "id": 1733,
+      "question": "Czy do gry w dwa ognie, oprócz piłki, są wymagane jeszcze jakieś rekwizyty?",
+      "answer": "Nie"
+    },
+    {
+      "id": 1734,
+      "question": "W którym państwie Benazir Bhutto była premierem?",
+      "answer": "W Pakistanie"
+    },
+    {
+      "id": 1735,
+      "question": "Jakie imię nosi archanioł, opiekuńczy anioł narodu izraelskiego?",
+      "answer": "Michał"
+    },
+    {
+      "id": 1736,
+      "question": "Którą operę Georges Bizet rozpoczyna uwertura „Carmen”?",
+      "answer": "Carmen"
+    },
+    {
+      "id": 1737,
+      "question": "Sterowiec to statek powietrzny lżejszy czy cięższy od powietrza?",
+      "answer": "Lżejszy"
+    },
+    {
+      "id": 1738,
+      "question": "W której konkurencji łyżwiarstwa specjalizuje się Natalia Maliszewska?",
+      "answer": "Short track"
+    },
+    {
+      "id": 1739,
+      "question": "Tlenek którego metalu to hematyt?",
+      "answer": "Tlenek żelaza"
+    },
+    {
+      "id": 1740,
+      "question": "Czym zajmował się Abel z Biblii?",
+      "answer": "Był pasterzem owiec"
+    },
+    {
+      "id": 1741,
+      "question": "Który prezydent Polski podpisał konstytucję kwietniową w 1935 roku?",
+      "answer": "Ignacy Mościcki"
+    },
+    {
+      "id": 1742,
+      "question": "Z którego miasta można dostać się na Śnieżkę wyciągiem?",
+      "answer": "Ze Szklarskiej Poręby"
+    },
+    {
+      "id": 1743,
+      "question": "Na terenie którego państwa są pozostałości hitlerowskiego obozu koncentracyjnego Gross-Rosen?",
+      "answer": "Na terenie Polski"
+    },
+    {
+      "id": 1744,
+      "question": "Na jakim instrumencie grał Sting w zespole The Police?",
+      "answer": "Na gitarze basowej"
+    },
+    {
+      "id": 1745,
+      "question": "Czym pachnie Kanada w tytule książki Arkadego Fiedlera?",
+      "answer": "Żywicą"
+    },
+    {
+      "id": 1746,
+      "question": "Na terenie którego państwa leży Leoncin, miejsce urodzenia noblisty Isaaca Bashevisa Singera?",
+      "answer": "Na terenie Polski"
+    },
+    {
+      "id": 1747,
+      "question": "Pomieszczenie w pałacu zwane westybulem to garderoba, przedpokój czy sypialnia?",
+      "answer": "Przedpokój"
+    },
+    {
+      "id": 1748,
+      "question": "Osioł co w żłobie dano wie, czym się zająć – w którym utworze pojawia się ta fraza?",
+      "answer": "W wierszu Aleksandra Fredry"
+    },
+    {
+      "id": 1749,
+      "question": "Jak nazywała się legendarna królowa związana z Wiszącymi Ogrodami Babilonu?",
+      "answer": "Semiramida"
+    },
+    {
+      "id": 1750,
+      "question": "Kto skomponował muzykę do ponad 200 filmów, w tym „Niemoralna propozycja” i „Panna młoda w żałobie”?",
+      "answer": "Michel Legrand"
+    },
+    {
+      "id": 1751,
+      "question": "Jak nazywa się tradycyjna potrawa wigilijna z gotowanej pszenicy, maku, miodu i bakalii?",
+      "answer": "Kutia"
+    },
+    {
+      "id": 1752,
+      "question": "Czy jedna pinta brytyjska jest większa, czy mniejsza od pół litra?",
+      "answer": "Większa"
+    },
+    {
+      "id": 1753,
+      "question": "Jak nazywa się napiwek na Bliskim Wschodzie i w północnej Afryce?",
+      "answer": "Bakszysz"
+    },
+    {
+      "id": 1754,
+      "question": "Czy pieprz cayenne należy do rodziny pieprzowatych?",
+      "answer": "Nie"
+    },
+    {
+      "id": 1755,
+      "question": "Jak wygląda płomień świecy w stanie nieważkości?",
+      "answer": "Jest sferyczny"
+    },
+    {
+      "id": 1756,
+      "question": "Która postać z filmów Juliusza Machulskiego nosi przydomek „Duńczyk”?",
+      "answer": "„Duńczyk” to postać z filmu „Vabank”"
+    },
+    {
+      "id": 1757,
+      "question": "Kto według mitologii greckiej zabił Memnona, syna bogini Eos?",
+      "answer": "Achilles"
+    },
+    {
+      "id": 1758,
+      "question": "Jaki najwyższy tytuł przyjął Oliver Cromwell?",
+      "answer": "Lord Protektor"
+    },
+    {
+      "id": 1759,
+      "question": "Do pomiaru czego służy skala opracowana przez Binet’a i Simon’a?",
+      "answer": "Do pomiaru poziomu inteligencji"
+    },
+    {
+      "id": 1760,
+      "question": "Czy Kuro Siwo to prąd morski ciepły czy zimny?",
+      "answer": "Ciepły"
+    },
+    {
+      "id": 1761,
+      "question": "Laskarze to zawodnicy której dyscypliny sportowej?",
+      "answer": "Hokeja na trawie"
+    },
+    {
+      "id": 1762,
+      "question": "Co oznacza skrót UOKiK?",
+      "answer": "Urząd Ochrony Konkurencji i Konsumentów"
+    },
+    {
+      "id": 1743,
+      "question": "Na terenie którego państwa są pozostałości hitlerowskiego obozu koncentracyjnego Gross-Rosen?",
+      "answer": "Na terenie Polski"
+    },
+    {
+      "id": 1744,
+      "question": "Na jakim instrumencie grał Sting w zespole The Police?",
+      "answer": "Na gitarze basowej"
+    },
+    {
+      "id": 1745,
+      "question": "Czym pachnie Kanada w tytule książki Arkadego Fiedlera?",
+      "answer": "Żywicą"
+    },
+    {
+      "id": 1746,
+      "question": "Na terenie którego państwa leży Leoncin, miejsce urodzenia noblisty Isaaca Bashevisa Singera?",
+      "answer": "Na terenie Polski"
+    },
+    {
+      "id": 1747,
+      "question": "Pomieszczenie w pałacu zwane westybulem to garderoba, przedpokój czy sypialnia?",
+      "answer": "Przedpokój"
+    },
+    {
+      "id": 1748,
+      "question": "Osioł co w żłobie dano wie, czym się zająć – w którym utworze pojawia się ta fraza?",
+      "answer": "W wierszu Aleksandra Fredry"
+    },
+    {
+      "id": 1749,
+      "question": "Jak nazywała się legendarna królowa związana z Wiszącymi Ogrodami Babilonu?",
+      "answer": "Semiramida"
+    },
+    {
+      "id": 1750,
+      "question": "Kto skomponował muzykę do ponad 200 filmów, w tym „Niemoralna propozycja” i „Panna młoda w żałobie”?",
+      "answer": "Michel Legrand"
+    },
+    {
+      "id": 1751,
+      "question": "Jak nazywa się tradycyjna potrawa wigilijna z gotowanej pszenicy, maku, miodu i bakalii?",
+      "answer": "Kutia"
+    },
+    {
+      "id": 1752,
+      "question": "Czy jedna pinta brytyjska jest większa, czy mniejsza od pół litra?",
+      "answer": "Większa"
+    },
+    {
+      "id": 1753,
+      "question": "Jak nazywa się napiwek na Bliskim Wschodzie i w północnej Afryce?",
+      "answer": "Bakszysz"
+    },
+    {
+      "id": 1754,
+      "question": "Czy pieprz cayenne należy do rodziny pieprzowatych?",
+      "answer": "Nie"
+    },
+    {
+      "id": 1755,
+      "question": "Jak wygląda płomień świecy w stanie nieważkości?",
+      "answer": "Jest sferyczny"
+    },
+    {
+      "id": 1756,
+      "question": "Która postać z filmów Juliusza Machulskiego nosi przydomek „Duńczyk”?",
+      "answer": "„Duńczyk” to postać z filmu „Vabank”"
+    },
+    {
+      "id": 1757,
+      "question": "Kto według mitologii greckiej zabił Memnona, syna bogini Eos?",
+      "answer": "Achilles"
+    },
+    {
+      "id": 1758,
+      "question": "Jaki najwyższy tytuł przyjął Oliver Cromwell?",
+      "answer": "Lord Protektor"
+    },
+    {
+      "id": 1759,
+      "question": "Do pomiaru czego służy skala opracowana przez Binet’a i Simon’a?",
+      "answer": "Do pomiaru poziomu inteligencji"
+    },
+    {
+      "id": 1760,
+      "question": "Czy Kuro Siwo to prąd morski ciepły czy zimny?",
+      "answer": "Ciepły"
+    },
+    {
+      "id": 1761,
+      "question": "Laskarze to zawodnicy której dyscypliny sportowej?",
+      "answer": "Hokeja na trawie"
+    },
+    {
+      "id": 1762,
+      "question": "Co oznacza skrót UOKiK?",
+      "answer": "Urząd Ochrony Konkurencji i Konsumentów"
+    },
+    {
+      "id": 1763,
+      "question": "Czy św. Tomasz z Akwinu żył w średniowieczu, czy w epoce odrodzenia?",
+      "answer": "W średniowieczu"
+    },
+    {
+      "id": 1764,
+      "question": "Czy Polska i kontynentalna Hiszpania leżą w tej samej strefie czasowej?",
+      "answer": "Tak"
+    },
+    {
+      "id": 1765,
+      "question": "Jak nazywa się grecki faraon, którego znamy pod imieniem Cheops?",
+      "answer": "Chufu"
+    },
+    {
+      "id": 1766,
+      "question": "Jak nazywa się teren przeznaczony do ćwiczeń wojskowych, którego nazwa pochodzi z greki?",
+      "answer": "Poligon"
+    },
+    {
+      "id": 1767,
+      "question": "Jak nazywa się największy ptak z rodziny jastrzębiowatych, do której należą m.in. orły cesarski i sawannowy?",
+      "answer": "Orzeł"
+    },
+    {
+      "id": 1768,
+      "question": "Pierwiastek trzeciego stopnia liczby ujemnej jest dodatni czy ujemny?",
+      "answer": "Ujemny"
+    },
+    {
+      "id": 1769,
+      "question": "Jak nazywa się potocznie chusta noszona przez Palestyńczyków w biało-czarny wzór?",
+      "answer": "Arafatka"
+    },
+    {
+      "id": 1770,
+      "question": "Jak brzmi polskie przysłowie, które mówi: 'Każda pliszka...'",
+      "answer": "'Każda pliszka swój ogon chwali.'"
+    },
+    {
+      "id": 1771,
+      "question": "Na którym kontynencie leży państwo Gujana?",
+      "answer": "W Ameryce Południowej"
+    },
+    {
+      "id": 1772,
+      "question": "Rodziny Grobliczów, znanej z wyrobu instrumentów, specjalizowały się w produkcji jakich instrumentów?",
+      "answer": "Skrzypiec"
+    },
+    {
+      "id": 1773,
+      "question": "Czy James Cameron, reżyser 'Titanica' i 'Terminatora', urodził się w USA?",
+      "answer": "Nie, urodził się w Kanadzie"
+    },
+    {
+      "id": 1774,
+      "question": "Jak ma na imię młodszy brat świnki Peppy, bohater kreskówek dla dzieci?",
+      "answer": "George"
+    },
+    {
+      "id": 1775,
+      "question": "Jak nazywa się pierwiastek o symbolu Er?",
+      "answer": "Erb"
+    },
+    {
+      "id": 1776,
+      "question": "Który prezydent Stanów Zjednoczonych odwiedził Wietnam po zakończeniu wojny?",
+      "answer": "Bill Clinton"
+    },
+    {
+      "id": 1777,
+      "question": "W którym mieście europejskim znajduje się pomnik Piotrusia Pana?",
+      "answer": "W Londynie"
+    },
+    {
+      "id": 1778,
+      "question": "Jaką część ciała promieniuje kość promieniowa?",
+      "answer": "Przedramię"
+    },
+    {
+      "id": 1779,
+      "question": "Czy paramentarz to rodzaj depozytu?",
+      "answer": "Nie, to przewodniczący kapituły katedralnej"
+    },
+    {
+      "id": 1780,
+      "question": "Którą informacyjną stację telewizyjną założył Ted Turner w 1980 roku?",
+      "answer": "CNN"
+    },
+    {
+      "id": 1781,
+      "question": "Jakie nazwisko nosi Marcin, główny bohater powieści 'Syzyfowe prace' Stefana Żeromskiego?",
+      "answer": "Borowicz"
+    },
+    {
+      "id": 1782,
+      "question": "W którym państwie znajduje się miasto Olsztyn?",
+      "answer": "W Belgii"
+    },
+    {
+      "id": 1783,
+      "question": "Jak nazywa się ciało doskonale pochłaniające promieniowanie niezależnie od długości fal?",
+      "answer": "Ciało doskonale czarne"
+    },
+    {
+      "id": 1784,
+      "question": "Co zostało uwolnione po otwarciu puszki Pandory, oprócz nadziei?",
+      "answer": "Nieszczęścia i choroby"
+    },
+    {
+      "id": 1785,
+      "question": "Jak nazywał się generał dowódca Armii Krajowej w latach 1947-1949, późniejszy premier rządu na uchodźstwie?",
+      "answer": "Tadeusz Bór-Komorowski"
     }
   ]
 }

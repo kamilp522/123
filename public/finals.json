@@ -224,7 +224,7 @@
     },
     {
       "id": 38,
-      "question": "Wymień dwa z czterech symboli przypisywanych czterem ewangelistom.",
+      "question": "Wymień dwa z czterech symboli przypisywanych czterem ewangelistom",
       "answer": "Orzeł, wół, lew, człowiek",
       "episode": "finał 143 edycji"
     },
@@ -368,7 +368,7 @@
     },
     {
       "id": 62,
-      "question": "Podaj tytuły dwóch powieści Józefa Ignacego Kraszewskiego które zostały sfilmowane po drugiej wojnie światowej.",
+      "question": "Podaj tytuły dwóch powieści Józefa Ignacego Kraszewskiego które zostały sfilmowane po drugiej wojnie światowej",
       "answer": "Stara Baśń, Hrabina Cosel",
       "episode": "finał 143 edycji"
     },
@@ -413,6 +413,666 @@
       "question": "Jakie są lata w tytule wspomnieniowej powieści Kornela Makuszyńskiego?",
       "answer": "Szczenięce lata",
       "episode": "finał 143 edycji"
+    },
+    {
+      "id": 70,
+      "question": "Który kompozytor nazywany jest twórcą polskiej opery narodowej?",
+      "answer": "Stanisław Moniuszko",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 71,
+      "question": "Jak nazywa się największe jezioro na Węgrzech?",
+      "answer": "Balaton",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 72,
+      "question": "Która zasada dynamiki Newtona jest nazywana prawem akcji i reakcji?",
+      "answer": "Trzecia zasada dynamiki",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 73,
+      "question": "Musical 'We Will Rock You' to spektakl z piosenkami którego zespołu?",
+      "answer": "Queen",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 74,
+      "question": "Czy ptaki są stałocieplne czy zmiennocieplne?",
+      "answer": "Stałocieplne",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 75,
+      "question": "W którym mieście urodził się Franz Kafka?",
+      "answer": "W Pradze",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 76,
+      "question": "Jaki kolor mają odchody zwierzęcia zwanego borsukiem lekarskim?",
+      "answer": "Czarne",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 77,
+      "question": "Jak nazywa się najjaśniejsza gwiazda Małej Niedźwiedzicy?",
+      "answer": "Gwiazda Polarna",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 78,
+      "question": "Którą walutę oznacza się skrótem CHF?",
+      "answer": "Frank szwajcarski",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 79,
+      "question": "Która drużyna piłkarska nosi przydomek 'Duma Katalonii'?",
+      "answer": "FC Barcelona",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 80,
+      "question": "W którym mieście znajduje się cmentarz na Rossie?",
+      "answer": "W Wilnie",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 81,
+      "question": "Jakiej narodowości był malarz Amedeo Modigliani?",
+      "answer": "Włoch",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 82,
+      "question": "Jak nazywa się odmiana czasownika przez osoby, czasy, tryby, liczby i strony?",
+      "answer": "Konjugacja",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 83,
+      "question": "Które warzywo jest niezbędnym elementem hiszpańskiego święta La Tomatina?",
+      "answer": "Pomidor",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 84,
+      "question": "Z którego języka pochodzą słowa azymut i zenit?",
+      "answer": "Z arabskiego",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 85,
+      "question": "Co znajdziemy w paprykarzu szczecińskim oprócz mięsa z ryb?",
+      "answer": "Ryż",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 86,
+      "question": "Jakie są dwa języki urzędowe w Kanadzie?",
+      "answer": "Angielski i francuski",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 87,
+      "question": "Kto jest autorem cyklu rysunków 'Poczet królów i książąt polskich'?",
+      "answer": "Jan Matejko",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 88,
+      "question": "Czy medalierstwo to dziedzina sztuki związana z projektowaniem i wykonywaniem medali?",
+      "answer": "Tak",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 89,
+      "question": "Które dwie litery greckiego alfabetu oznaczają w przenośni kogoś, kto jest autorytetem?",
+      "answer": "Alfa i omega",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 90,
+      "question": "Ojciec Zadżumionych to bohater i narrator poematu którego poety?",
+      "answer": "Juliusza Słowackiego",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 91,
+      "question": "Które państwo istniało w starożytności wcześniej: cesarstwo rzymskie czy republika rzymska?",
+      "answer": "Republika rzymska",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 92,
+      "question": "Która instytucja kryje się pod skrótem UODO?",
+      "answer": "Urząd Ochrony Danych Osobowych",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 93,
+      "question": "Jak nazywa się błona śluzowa pokrywająca wewnętrzną powierzchnię powiek?",
+      "answer": "Spojówka",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 94,
+      "question": "Jak brzmiał kryptonim Rady Pomocy Żydom w Polsce podczas II wojny światowej?",
+      "answer": "Żegota",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 95,
+      "question": "Jaka jest najmniejsza liczba podzielna przez 7 i przez 8?",
+      "answer": "56",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 96,
+      "question": "Na terenie których dwóch państw azjatyckich rozciąga się kraina Pendżab?",
+      "answer": "Indie i Pakistan",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 97,
+      "question": "Który wybitny polski trener nazywany był 'Papa'?",
+      "answer": "Feliks Stamm",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 98,
+      "question": "O ile centymetrów zmienia się każdy kolejny rozmiar odzieży niemowlęcej i dziecięcej?",
+      "answer": "O 6 centymetrów",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 99,
+      "question": "Czy istnieje gaz doskonały?",
+      "answer": "Nie, gaz doskonały to teoretyczny model, w którym nie występują oddziaływania między cząsteczkami",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 100,
+      "question": "Za króla Olbrachta wyginęła szlachta. W którym wieku miała miejsce bitwa pod Koźminem, po której powstało to powiedzenie?",
+      "answer": "W XV wieku, w 1497 roku",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 101,
+      "question": "Sześcienna kostka waży 8 kilogramów. Ile waży kostka o krawędzi krótszej o połowę?",
+      "answer": "1 kilogram",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 102,
+      "question": "W 2023 roku pewne państwo zostało 31. członkiem NATO. Które to państwo?",
+      "answer": "Finlandia",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 103,
+      "question": "Ile kobiet jest wśród żołnierzy Gwardii Szwajcarskiej pełniących rolę straży przybocznej papieża?",
+      "answer": "Żadnej",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 104,
+      "question": "Bohaterem której części trylogii Sienkiewicza jest Azja Tuhajbejowicz?",
+      "answer": "'Ogniem i mieczem'",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 105,
+      "question": "W którym roku wybuchł we Wrześni strajk uczniów przeciwko germanizacji szkoły?",
+      "answer": "W 1901 roku",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 106,
+      "question": "Czy Alfred Nobel wynalazł trotyl?",
+      "answer": "Nie, trotyl wynaleziono później",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 107,
+      "question": "Ile wioseł mają łodzie typu double scull (dwuosobowe wioślarskie)?",
+      "answer": "Dwa wiosła",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 108,
+      "question": "Jak nazywa się bezpośrednia wymiana towarów bez użycia pieniędzy?",
+      "answer": "Barter",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 109,
+      "question": "Dzień Myśli Braterskiej obchodzony jest 22 lutego. Czy obchodzą go skauci na całym świecie?",
+      "answer": "Tak, na całym świecie",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 110,
+      "question": "Czy w grudniu można spotkać w Polsce skowronka?",
+      "answer": "Nie, odlatują najpóźniej w październiku",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 111,
+      "question": "Który pierwiastek chemiczny jest głównym składnikiem spiżu?",
+      "answer": "Miedź",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 112,
+      "question": "Ile kręgów szyjnych liczy ludzki kręgosłup?",
+      "answer": "Siedem",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 113,
+      "question": "Który instrument muzyczny widnieje w herbie Radziwiłłów?",
+      "answer": "Trąba",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 114,
+      "question": "Czy istnieje centrala Internetu?",
+      "answer": "Nie, Internet nie ma centralnej jednostki",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 115,
+      "question": "Z którego państwa pochodził kompozytor Ryuichi Sakamoto?",
+      "answer": "Z Japonii",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 116,
+      "question": "Jak nazywa się obraz przedstawiający pejzaż nocny albo mroczny?",
+      "answer": "Nokturn",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 117,
+      "question": "W styczniu 2023 roku rozpoczął się chiński rok którego zwierzęcia?",
+      "answer": "Rok Królika",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 118,
+      "question": "Ile herców ma 3 gigaherce?",
+      "answer": "3 miliardy herców",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 119,
+      "question": "Jak nazywał się współczesny kompozytor, twórca 'Symfonii pieśni żałosnych' i 'Symfonii kopernikańskiej'?",
+      "answer": "Henryk Mikołaj Górecki",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 120,
+      "question": "Na przełomie których wieków żyła Pocahontas, bohaterka filmu Disneya z 1995 roku?",
+      "answer": "Na przełomie XVI i XVII wieku",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 121,
+      "question": "Kto powiedział: 'Dużo to nie znaczy dobrze, ale dobrze znaczy dużo'?",
+      "answer": "Demostenes",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 122,
+      "question": "Który stopień w polskiej policji odpowiada stopniowi kapitana w wojsku?",
+      "answer": "Nadkomisarz",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 123,
+      "question": "Corno Grande to najwyższy szczyt którego europejskiego pasma górskiego?",
+      "answer": "Apeninów",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 124,
+      "question": "Rodzajem czego jest 'skjærgård'?",
+      "answer": "Jest to rodzaj granitowego wybrzeża wygładzonego przez lodowiec",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 125,
+      "question": "Czy Winston Churchill sprawował funkcję premiera po raz pierwszy, gdy Elżbieta II została królową?",
+      "answer": "Nie, sprawował ją po raz drugi",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 126,
+      "question": "Z którym współczesnym państwem wiąże się historyczne określenie 'Wysoka Porta'?",
+      "answer": "Z Turcją",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 127,
+      "question": "Na ilu polach rozgrywa się gra planszowa o nazwie Halma?",
+      "answer": "Na 256 polach",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 128,
+      "question": "Jak miał na imię doktor Frankenstein, bohater powieści Mary Shelley?",
+      "answer": "Victor",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 129,
+      "question": "Ile minerałów wzorcowych tworzy skalę Mohsa, skalę twardości minerałów?",
+      "answer": "Dziesięć",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 130,
+      "question": "Z której miejscowości pochodził K.O., w którego rolę wcielił się Stanisław Tym w filmie 'Rejs'?",
+      "answer": "Z Małkini",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 131,
+      "question": "Jak portugalski kapitan Pedro Álvares Cabral nazwał nowo odkryte terytorium Brazylii?",
+      "answer": "Terra de Vera Cruz (Ziemia Prawdziwego Krzyża)",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 132,
+      "question": "Do której rodziny roślin należą koniczyna, seradela i lucerna?",
+      "answer": "Do rodziny bobowatych (motylkowatych)",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 133,
+      "question": "Maksymalnie ilu członków może liczyć Akademia Francuska?",
+      "answer": "Czterdziestu",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 134,
+      "question": "Które drapieżniki widnieją w herbie Malezji?",
+      "answer": "Dwa tygrysy",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 135,
+      "question": "Którego późniejszego polskiego króla uwięziono we Francji jako sprzymierzeńca Habsburgów?",
+      "answer": "Jana Kazimierza",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 136,
+      "question": "Jak miał na imię najstarszy człowiek wymieniony w Starym Testamencie?",
+      "answer": "Matuzalem",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 137,
+      "question": "Na cześć której organizacji James Cook nazwał archipelag w Polinezji Francuskiej Wyspami Towarzystwa?",
+      "answer": "Na cześć Królewskiego Towarzystwa Geograficznego w Londynie",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 138,
+      "question": "O której wojnie nie opowiada książka Normana Daviesa 'Orzeł biały, czerwona gwiazda'?",
+      "answer": "O drugiej wojnie światowej",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 139,
+      "question": "Kto napisał wierszyk 'Słonko widziało'? (Cały dzień słonko po niebie chodziło, czego nie widziało, daj nie patrzyła.)",
+      "answer": "Maria Konopnicka",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 140,
+      "question": "Które wielkie jezioro amerykańskie leży całkowicie na terenie Stanów Zjednoczonych?",
+      "answer": "Jezioro Michigan",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 141,
+      "question": "W którym państwie jest organizowany co trzy lata międzynarodowy mistrzowski konkurs pianistyczny imienia Artura Rubinsteina?",
+      "answer": "W Izraelu",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 142,
+      "question": "Jak nazywa się jedna z najstarszych bibliotek świata założona w 1800 roku w Waszyngtonie?",
+      "answer": "Biblioteka Kongresu",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 143,
+      "question": "Kanał Świętego Jerzego oddziela które państwa?",
+      "answer": "Wielką Brytanię i Irlandię",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 144,
+      "question": "Czy słowa dramaturg i dramatopisarz to synonimy?",
+      "answer": "Tak",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 145,
+      "question": "Pary sportowe i pary taneczne to konkurencje której dyscypliny sportowej?",
+      "answer": "Jazdy figurowej na lodzie",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 146,
+      "question": "Co znaczą litery Q.E.D. umieszczane na końcu dowodu matematycznego?",
+      "answer": "Co było do udowodnienia",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 147,
+      "question": "Ognie którego świętego są zjawiskiem związanym z wyładowaniami elektrycznymi?",
+      "answer": "Ognie świętego Elma",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 148,
+      "question": "Kto podczas drugiej wojny światowej sprawował urząd prezydenta Polski na uchodźstwie?",
+      "answer": "Władysław Raczkiewicz",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 149,
+      "question": "Do których trzech mórz spływają wody rzek płynących przez Polskę?",
+      "answer": "Do Morza Bałtyckiego, Morza Północnego i Morza Czarnego",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 150,
+      "question": "Czyim dziełem jest powieść poetycka \"Giaur\"?",
+      "answer": "George'a Byrona",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 151,
+      "question": "Jakie współczesne określenie zastąpiło przymiotnik \"rejentalny\"?",
+      "answer": "Notarialny",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 152,
+      "question": "Jak nazywa się poświęcenie na początku partii szachów pionka lub figury dla uzyskania lepszej pozycji do ataku?",
+      "answer": "Gambit",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 153,
+      "question": "Która ryba jest największa?",
+      "answer": "Rekin wielorybi",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 154,
+      "question": "Czy Słońce jest ciałem gazowym?",
+      "answer": "Tak",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 155,
+      "question": "Który król Francji cenił i wspierał twórczość pisarza Moliera?",
+      "answer": "Ludwik XIV",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 156,
+      "question": "Jaki ładunek elektryczny przepływa przez przewodnik w ciągu sekundy, jeżeli natężenie prądu wynosi 1 amper?",
+      "answer": "1 kulomb",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 157,
+      "question": "Kto zapisał dla potomnych legendę o Wandzie, co nie chciała Niemca?",
+      "answer": "Wincenty Kadłubek",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 158,
+      "question": "Jak nazywa się krzywa, która jest dowolnym przekrojem powierzchni stożka?",
+      "answer": "Elipsa",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 159,
+      "question": "Ile procent powierzchni Polski zajmują jeziora?",
+      "answer": "Mniej niż 1%",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 160,
+      "question": "Jak nazywa się parlament Hiszpanii?",
+      "answer": "Kortezy Generalne",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 161,
+      "question": "Które zwierzę ocaliło Mahometa, gdy uciekając z Mekki przed prześladowcami ukrył się w jaskini?",
+      "answer": "Pająk",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 162,
+      "question": "Okulary do dali przeznaczone są dla krótkowidzów czy dalekowidzów?",
+      "answer": "Dla krótkowidzów",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 163,
+      "question": "W którym wieku Jacques Piccard i Don Walsh zanurzyli się na dno Rowu Mariańskiego?",
+      "answer": "W XX wieku",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 164,
+      "question": "Jak nazywa się polityk, który w styczniu 2023 roku zwyciężył w wyborach prezydenckich w Czechach?",
+      "answer": "Petr Pavel",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 165,
+      "question": "Jezioro Czorsztyńskie i Jezioro Rożnowskie to zbiorniki retencyjne na której rzece?",
+      "answer": "Na Dunajcu",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 166,
+      "question": "W wyprawie Argonautów po złote runo brała udział kobieta. Jakie nosiła imię?",
+      "answer": "Atalanta",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 167,
+      "question": "W którym mieście ukazało się drukiem pierwsze wydanie dzieła Kopernika \"O obrotach sfer niebieskich\"?",
+      "answer": "W Norymberdze",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 168,
+      "question": "Jak nazywa się pasek białej sierści na czole konia?",
+      "answer": "Strzałka",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 169,
+      "question": "Jak w psychologii nazywa się chorobliwy lęk przed ogniem?",
+      "answer": "Piromania",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 170,
+      "question": "Co znaczy angielski skrót LAN (L A N)?",
+      "answer": "Local Area Network, czyli lokalna sieć komputerowa",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 171,
+      "question": "Wirtuozem którego instrumentu był Sydney Bechet?",
+      "answer": "Saksofonu",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 172,
+      "question": "Medycyna holistyczna każe leczyć cały organizm czy tylko jego chorą część?",
+      "answer": "Cały organizm",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 173,
+      "question": "Którego miasta-państwa władcą był Lorenzo de' Medici, zwany Wawrzyńcem Wspaniałym?",
+      "answer": "Florencji",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 174,
+      "question": "Ile ramienne gwiazdy widnieją na flagach Somalii i Wietnamu?",
+      "answer": "Pięcioramienne",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 175,
+      "question": "W którym morzu zatonął w 1940 roku polski okręt podwodny \"Orzeł\"?",
+      "answer": "W Morzu Północnym",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 176,
+      "question": "Ile zer liczy trylion w polskiej notacji?",
+      "answer": "18 zer",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 177,
+      "question": "Z której rośliny uzyskiwany jest alkaloid chinina?",
+      "answer": "Z kory drzewa chinowego",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 178,
+      "question": "Który kontynent zamieszkują niedźwiedzie baribal?",
+      "answer": "Amerykę Północną",
+      "episode": "finał 138 edycji"
+    },
+    {
+      "id": 179,
+      "question": "Jak nazywa się młody wynalazca, kuzyn Izabeli Łęckiej, bohater powieści \"Lalka\"?",
+      "answer": "Julian Ochocki",
+      "episode": "finał 138 edycji"
     }
   ]
 }
