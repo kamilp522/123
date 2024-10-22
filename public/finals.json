@@ -1073,6 +1073,446 @@
       "question": "Jak nazywa się młody wynalazca, kuzyn Izabeli Łęckiej, bohater powieści \"Lalka\"?",
       "answer": "Julian Ochocki",
       "episode": "finał 138 edycji"
+    },
+    {
+      "id": 180,
+      "question": "Który kontynent jest najmniejszy pod względem powierzchni?",
+      "answer": "Australia"
+    },
+    {
+      "id": 181,
+      "question": "W ilu pozycjach przedstawiony jest człowiek na rysunku Leonarda da Vinci, znanym jako Człowiek Witruwiański?",
+      "answer": "W dwóch pozycjach: jedna wpisana w kwadrat, druga w okrąg."
+    },
+    {
+      "id": 182,
+      "question": "Czy śledź żyje w ławicach?",
+      "answer": "Tak, śledź żyje w ławicach."
+    },
+    {
+      "id": 183,
+      "question": "Jak nazywa się dział biologii zajmujący się badaniem owadów?",
+      "answer": "Entomologia"
+    },
+    {
+      "id": 184,
+      "question": "Jak nazywa się finał rozgrywek w futbolu amerykańskim?",
+      "answer": "Super Bowl"
+    },
+    {
+      "id": 185,
+      "question": "Proszę podać jedno z dwóch imion polskiego kompozytora Góreckiego.",
+      "answer": "Henryk"
+    },
+    {
+      "id": 186,
+      "question": "Jak nazywa się pilot, który testuje nowo skonstruowane samoloty?",
+      "answer": "Oblatywacz"
+    },
+    {
+      "id": 187,
+      "question": "Czy grafit przewodzi prąd elektryczny?",
+      "answer": "Tak, przewodzi"
+    },
+    {
+      "id": 188,
+      "question": "W trawieniu których substancji główną rolę odgrywa żółć?",
+      "answer": "Tłuszczów"
+    },
+    {
+      "id": 189,
+      "question": "Jakie zwierzęta są używane w grze w polo?",
+      "answer": "Konie"
+    },
+    {
+      "id": 190,
+      "question": "Jak nazywa się korek przymocowany do żyłki, utrzymujący haczyk wędki na odpowiedniej głębokości?",
+      "answer": "Spławik"
+    },
+    {
+      "id": 191,
+      "question": "Jak nazywa się flaga wskazująca przynależność państwową statku?",
+      "answer": "Bandera"
+    },
+    {
+      "id": 192,
+      "question": "Czy jednostką kąta płaskiego w układzie SI jest radian?",
+      "answer": "Tak"
+    },
+    {
+      "id": 193,
+      "question": "Jak nazywa się grupa instrumentów muzycznych, w których źródłem dźwięku są napięte struny?",
+      "answer": "Chordofony"
+    },
+    {
+      "id": 194,
+      "question": "Ile samogłosek jest w słowie 'górska'?",
+      "answer": "Dwie"
+    },
+    {
+      "id": 195,
+      "question": "Kim z wykształcenia był pisarz Jan Brzechwa?",
+      "answer": "Prawnikiem"
+    },
+    {
+      "id": 196,
+      "question": "Jaki jest symbol chemiczny węgla?",
+      "answer": "C"
+    },
+    {
+      "id": 197,
+      "question": "Jak brzmi męskie imię i nazwa części Krakowa?",
+      "answer": "Kazimierz"
+    },
+    {
+      "id": 198,
+      "question": "Jakiego koloru są kwiaty ogórka?",
+      "answer": "Żółte"
+    },
+    {
+      "id": 199,
+      "question": "Który grecki bóg poślubił Ariadnę?",
+      "answer": "Dionizos"
+    },
+    {
+      "id": 200,
+      "question": "Kto napisał powieść, na podstawie której powstał serial 'Pogoda dla bogaczy'?",
+      "answer": "Irwin Shaw"
+    },
+    {
+      "id": 201,
+      "question": "Na ile sekcji instrumentalnych podzielony jest big band?",
+      "answer": "Na cztery"
+    },
+    {
+      "id": 202,
+      "question": "Którymi dwiema literami oznacza się postscriptum?",
+      "answer": "P.S."
+    },
+    {
+      "id": 203,
+      "question": "Który rząd został obalony w wyniku przewrotu majowego w 1926 roku?",
+      "answer": "Rząd Wincentego Witosa"
+    },
+    {
+      "id": 204,
+      "question": "Zbiorem czego jest herbarium?",
+      "answer": "Zbiorem zasuszonych roślin"
+    },
+    {
+      "id": 205,
+      "question": "Ich nazwa w dosłownym tłumaczeniu z sanskrytu oznacza 'siedziby śniegów'. O jakim systemie górskim mowa?",
+      "answer": "Himalaje"
+    },
+    {
+      "id": 206,
+      "question": "Ile wynosi jedna setna w systemie dziesiętnym?",
+      "answer": "10 do potęgi minus 2"
+    },
+    {
+      "id": 207,
+      "question": "Jakie drugie określenie posiada wyraz 'pohańbić' w języku czeskim?",
+      "answer": "Zhańbić"
+    },
+    {
+      "id": 208,
+      "question": "W jakim stylu architektonicznym występował system przyporowy?",
+      "answer": "Gotyckim"
+    },
+    {
+      "id": 209,
+      "question": "Proszę podać synonimy słowa 'prestidigitator'.",
+      "answer": "Iluzjonista, magik, kuglarz, sztukmistrz"
+    },
+    {
+      "id": 210,
+      "question": "Kto skomponował 'Modlitwę dziewicy'?",
+      "answer": "Tekla Bądarzewska-Baranowska"
+    },
+    {
+      "id": 211,
+      "question": "W którym dniu tygodnia kończy się karnawał w Polsce?",
+      "answer": "We wtorek"
+    },
+    {
+      "id": 212,
+      "question": "Za panowania którego władcy pisał kronikę Gall Anonim?",
+      "answer": "Za panowania Bolesława Krzywoustego"
+    },
+    {
+      "id": 213,
+      "question": "Którego gazu szlachetnego jest najwięcej w suchym powietrzu?",
+      "answer": "Argonu"
+    },
+    {
+      "id": 214,
+      "question": "Nazwy których dwóch tańców towarzyskich wiążą się z lisem?",
+      "answer": "Foxtrot i Quickstep"
+    },
+    {
+      "id": 215,
+      "question": "Jak nazywa się okres w historii Chin, kiedy kraj rozpadł się na trzy królestwa?",
+      "answer": "Epoka Trzech Królestw"
+    },
+    {
+      "id": 216,
+      "question": "Według przysłowia, bez czego nie ma mądrości?",
+      "answer": "Bez ciekawości"
+    },
+    {
+      "id": 217,
+      "question": "W którym mieście znajduje się największa elektrownia wodna na Wiśle?",
+      "answer": "We Włocławku"
+    },
+    {
+      "id": 218,
+      "question": "Z pis to nazwa jakiej łodzi wiosłowej?",
+      "answer": "Jednoosobowej"
+    },
+    {
+      "id": 219,
+      "question": "Jaki pseudonim nosił Jan Bytnar, harcerz Szarych Szeregów?",
+      "answer": "Rudy"
+    },
+    {
+      "id": 220,
+      "question": "Odmianą którego drzewa owocowego jest oliwka kręcicka?",
+      "answer": "Jabłoni"
+    },
+    {
+      "id": 221,
+      "question": "Ile jest pór roku, stron świata i cnót kardynalnych?",
+      "answer": "Cztery"
+    },
+    {
+      "id": 222,
+      "question": "Proszę wymienić dwie z czterech cnót kardynalnych chrześcijaństwa.",
+      "answer": "Roztropność, sprawiedliwość, umiarkowanie, męstwo"
+    },
+    {
+      "id": 223,
+      "question": "Jak nazywa się zatoka między Półwyspem Arabskim a Afryką?",
+      "answer": "Zatoka Adeńska"
+    },
+    {
+      "id": 224,
+      "question": "Żółta febra wywoływana jest przez co?",
+      "answer": "Przez wirusy"
+    },
+    {
+      "id": 225,
+      "question": "Czy karpie należą do płazów?",
+      "answer": "Nie, należą do ryb"
+    },
+    {
+      "id": 226,
+      "question": "Ile wersów liczy limeryk?",
+      "answer": "Pięć"
+    },
+    {
+      "id": 227,
+      "question": "Jak nazywa się zjawisko przenikania rozpuszczalnika przez półprzepuszczalną błonę?",
+      "answer": "Osmosa"
+    },
+    {
+      "id": 228,
+      "question": "Jak nazywa się fontanna, w której kąpała się Anita Ekberg w filmie 'La Dolce Vita'?",
+      "answer": "Fontanna di Trevi"
+    },
+    {
+      "id": 229,
+      "question": "Honorowy tytuł władcy którego państwa brzmi 'Kustosz Dwóch Świętych Meczetów'?",
+      "answer": "Arabii Saudyjskiej"
+    },
+    {
+      "id": 230,
+      "question": "Która planeta Układu Słonecznego ma okres obrotu najbardziej zbliżony do Ziemi?",
+      "answer": "Mars"
+    },
+    {
+      "id": 231,
+      "question": "Jakim trzyliterowym skrótem określa się system cyfrowej radiofonii naziemnej?",
+      "answer": "DAB"
+    },
+    {
+      "id": 232,
+      "question": "Jakiego koloru żaboty noszą adwokaci w Polsce?",
+      "answer": "Zielonego"
+    },
+    {
+      "id": 233,
+      "question": "Z mleka których zwierząt produkowany jest ser feta?",
+      "answer": "Z owiec"
+    },
+    {
+      "id": 234,
+      "question": "W którym stanie USA znajdowało się Jamestown, pierwsza stała angielska kolonia w Ameryce?",
+      "answer": "Wirginia"
+    },
+    {
+      "id": 235,
+      "question": "Jak nazywał się hiszpański pisarz, autor powieści 'Cień wiatru'?",
+      "answer": "Carlos Ruiz Zafón"
+    },
+    {
+      "id": 236,
+      "question": "Padoka to płynny czy skrystalizowany miód?",
+      "answer": "Płynny"
+    },
+    {
+      "id": 237,
+      "question": "Której siły działanie powoduje odchylenie ciał poruszających się na powierzchni Ziemi?",
+      "answer": "Siły Coriolisa"
+    },
+    {
+      "id": 238,
+      "question": "Kto jest autorem słów 'Jestem człowiekiem i nic, co ludzkie, nie jest mi obce'?",
+      "answer": "Terencjusz"
+    },
+    {
+      "id": 239,
+      "question": "W którym gwiazdozbiorze najjaśniejszą gwiazdą jest Alkaid?",
+      "answer": "Wielkiej Niedźwiedzicy"
+    },
+    {
+      "id": 240,
+      "question": "Jak nazywał się okręt, na którym Karol Darwin opłynął kulę ziemską?",
+      "answer": "HMS Beagle"
+    },
+    {
+      "id": 241,
+      "question": "Jakie zwierzęta zamieszkują herpetaria?",
+      "answer": "Gady"
+    },
+    {
+      "id": 242,
+      "question": "Proszę podać imię i nazwisko polskiego tancerza uhonorowanego francuską nagrodą imienia Wacława Niżyńskiego.",
+      "answer": "Stanisław Szymański"
+    },
+    {
+      "id": 243,
+      "question": "Którym biblijnym imieniem nazwano system zapór przeciwpowodziowych w Wenecji?",
+      "answer": "Mojżesz"
+    },
+    {
+      "id": 244,
+      "question": "Jakie określenia wiążą się z żelazem w metalurgii?",
+      "answer": "Kucie, hartowanie"
+    },
+    {
+      "id": 245,
+      "question": "W którym mieście dyktowane jest ogólnopolskie dyktando?",
+      "answer": "W Katowicach"
+    },
+    {
+      "id": 246,
+      "question": "Jak nazywa się pensjonat, do którego przyjeżdżała panna Krysia w piosence 'Jesteśmy na wczasach'?",
+      "answer": "Orzeł"
+    },
+    {
+      "id": 247,
+      "question": "Czy delfiny żyją samotnie, czy w stadach?",
+      "answer": "W stadach"
+    },
+    {
+      "id": 248,
+      "question": "Do której dynastii należał Jan Olbracht?",
+      "answer": "Do Jagiellonów"
+    },
+    {
+      "id": 249,
+      "question": "Jak nazywa się jednostka wojsk lotniczych składająca się z dwóch lub trzech eskadr?",
+      "answer": "Dywizjon"
+    },
+    {
+      "id": 250,
+      "question": "Tropofobia to chorobliwy lęk przed czym?",
+      "answer": "Przed tłumem ludzi"
+    },
+    {
+      "id": 251,
+      "question": "Magnetyt to tlenek żelaza czy magnezu?",
+      "answer": "Tlenek żelaza"
+    },
+    {
+      "id": 252,
+      "question": "Co oznacza skrót RODO?",
+      "answer": "Rozporządzenie o ochronie danych osobowych"
+    },
+    {
+      "id": 253,
+      "question": "Która rzeka dzieli się w delcie na trzy główne ramiona o nazwach Kilia, Sulina i Święty Jerzy?",
+      "answer": "Dunaj"
+    },
+    {
+      "id": 254,
+      "question": "W filmie o Harrym Potterze Rupert Grint wcielił się w postać Rona Weasleya czy Draco Malfoya?",
+      "answer": "Rona Weasleya"
+    },
+    {
+      "id": 255,
+      "question": "Jak nazywał się duński fizyk, który opracował teorię budowy atomów wodoru?",
+      "answer": "Niels Bohr"
+    },
+    {
+      "id": 256,
+      "question": "Który ptak widnieje na fladze Ekwadoru?",
+      "answer": "Kondor"
+    },
+    {
+      "id": 257,
+      "question": "Czy język programowania Ada wziął swoją nazwę od prawdziwej osoby?",
+      "answer": "Tak, od Ady Lovelace"
+    },
+    {
+      "id": 258,
+      "question": "Pod czyim dowództwem szarżował szwadron szwoleżerów polskich forsując przełęcz Somosierry?",
+      "answer": "Pod dowództwem Jana Kozietulskiego"
+    },
+    {
+      "id": 259,
+      "question": "Grając w damskiej orkiestrze, bohaterka filmu 'Pół żartem, pół serio' nosi polskie nazwisko Kowalczyk czy Kowalski?",
+      "answer": "Kowalczyk"
+    },
+    {
+      "id": 260,
+      "question": "Z jakich trzech części składa się wiktoriańska szpada?",
+      "answer": "Główna, wschodnia i tęczowa"
+    },
+    {
+      "id": 264,
+      "question": "Jaką liczbę atomową ma wodór?",
+      "answer": "1"
+    },
+    {
+      "id": 265,
+      "question": "Ile państw utworzyło tzw. Bałtycki Układ w 1934 roku?",
+      "answer": "Trzy"
+    },
+    {
+      "id": 266,
+      "question": "Który były prezydent Stanów Zjednoczonych jako pierwszy w historii usłyszał zarzuty karne?",
+      "answer": "Donald Trump"
+    },
+    {
+      "id": 267,
+      "question": "Kim był Gilgamesz w mitologii sumeryjskiej?",
+      "answer": "Herosem"
+    },
+    {
+      "id": 268,
+      "question": "Jak nazywa się największy bezodpływowy akwen na Ziemi?",
+      "answer": "Morze Kaspijskie"
+    },
+    {
+      "id": 269,
+      "question": "Jaki kwiat występuje w tytule filmu zaczynającym się słowem 'Tulipan'?",
+      "answer": "Tulipan"
+    },
+    {
+      "id": 270,
+      "question": "Którego filozofa za życia nazywano psem?",
+      "answer": "Diogenesa"
     }
   ]
 }
